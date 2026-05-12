@@ -1,0 +1,14 @@
+{
+  "version": "2025.1",
+  "curso_activo": "2025/2026",
+  "ultima_actualizacion": "2025-09-01",
+  "universidades": [
+    {
+      "id": "ucm",
+      "nombre": "Universidad Complutense de Madrid",
+      "archivo": "universidades/ucm_2025_2026.json",
+      "checksum": "v1"
+    }
+  ]
+}
+
