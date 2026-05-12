@@ -8,7 +8,36 @@
       "nombre": "Universidad Complutense de Madrid",
       "archivo": "universidades/ucm_2025_2026.json",
       "checksum": "v1"
+    },
+    {
+      "id": "uam",
+      "nombre": "Universidad Autónoma de Madrid",
+      "archivo": "universidades/uam_2025_2026.json",
+      "checksum": "v1"
+    },
+    {
+      "id": "uc3m",
+      "nombre": "Universidad Carlos III de Madrid",
+      "archivo": "universidades/uc3m_2025_2026.json",
+      "checksum": "v1"
+    },
+    {
+      "id": "upm",
+      "nombre": "Universidad Politécnica de Madrid",
+      "archivo": "universidades/upm_2025_2026.json",
+      "checksum": "v1"
+    },
+    {
+      "id": "urjc",
+      "nombre": "Universidad Rey Juan Carlos",
+      "archivo": "universidades/urjc_2025_2026.json",
+      "checksum": "v1"
+    },
+    {
+      "id": "uah",
+      "nombre": "Universidad de Alcalá",
+      "archivo": "universidades/uah_2025_2026.json",
+      "checksum": "v1"
     }
   ]
 }
-
