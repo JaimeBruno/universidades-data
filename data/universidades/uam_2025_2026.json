@@ -1,0 +1,422 @@
+{
+    "universidad": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "curso": "2025/2026",
+    "total_carreras": 83,
+    "grados": [
+        {
+            "codigo": "0218",
+            "carrera": "Arqueología",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0200",
+            "carrera": "Estudios Clásicos y de la Antigüedad",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0201",
+            "carrera": "Estudios de Asia y África (Árabe)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0202",
+            "carrera": "Estudios de Asia y África (Chino)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0203",
+            "carrera": "Estudios de Asia y África (Japonés)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0204",
+            "carrera": "Estudios Hispánicos: Lengua Española y sus Literaturas",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0205",
+            "carrera": "Estudios Ingleses",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0206",
+            "carrera": "Filosofía",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0207",
+            "carrera": "Historia",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0208",
+            "carrera": "Historia del Arte",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0209",
+            "carrera": "Historia y Ciencias de la Música y Tecnología Musical",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0210",
+            "carrera": "Lenguas Modernas, Cultura y Comunicación-Español",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0211",
+            "carrera": "Lenguas Modernas, Cultura y Comunicación-Francés",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0212",
+            "carrera": "Lenguas Modernas, Cultura y Comunicación-Inglés",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0213",
+            "carrera": "Traducción e Interpretación (Francés)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0214",
+            "carrera": "Traducción e Interpretación (Inglés)",
+            "nota_corte_ordinaria": 6.7
+        },
+        {
+            "codigo": "0220",
+            "carrera": "Biología",
+            "nota_corte_ordinaria": 9.714
+        },
+        {
+            "codigo": "0221",
+            "carrera": "Bioquímica",
+            "nota_corte_ordinaria": 12.067
+        },
+        {
+            "codigo": "0223",
+            "carrera": "Ciencia y Tecnología de los Alimentos",
+            "nota_corte_ordinaria": 8.528
+        },
+        {
+            "codigo": "0222",
+            "carrera": "Ciencias Ambientales",
+            "nota_corte_ordinaria": 7.686
+        },
+        {
+            "codigo": "0224",
+            "carrera": "Física",
+            "nota_corte_ordinaria": 12.014
+        },
+        {
+            "codigo": "0225",
+            "carrera": "Matemáticas",
+            "nota_corte_ordinaria": 11.937
+        },
+        {
+            "codigo": "0226",
+            "carrera": "Química",
+            "nota_corte_ordinaria": 9.986
+        },
+        {
+            "codigo": "0229",
+            "carrera": "Química (grupo bilingüe: español/inglés)",
+            "nota_corte_ordinaria": 9.102
+        },
+        {
+            "codigo": "0230",
+            "carrera": "Enfermería (Facultad Medicina UAM)",
+            "nota_corte_ordinaria": 11.714
+        },
+        {
+            "codigo": "0235",
+            "carrera": "Medicina",
+            "nota_corte_ordinaria": 12.978
+        },
+        {
+            "codigo": "0236",
+            "carrera": "Nutrición Humana y Dietética",
+            "nota_corte_ordinaria": 10.003
+        },
+        {
+            "codigo": "0237",
+            "carrera": "Psicología",
+            "nota_corte_ordinaria": 10.426
+        },
+        {
+            "codigo": "0260",
+            "carrera": "Administración y Dirección de Empresas",
+            "nota_corte_ordinaria": 10.203
+        },
+        {
+            "codigo": "0272",
+            "carrera": "Análisis de Datos en la Empresa / Business Analytics",
+            "nota_corte_ordinaria": 11.232
+        },
+        {
+            "codigo": "0215",
+            "carrera": "Antropología Social y Cultural",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0262",
+            "carrera": "Ciencias de la Actividad Física y del Deporte",
+            "nota_corte_ordinaria": 10.56
+        },
+        {
+            "codigo": "0261",
+            "carrera": "Ciencia Política y Administración Pública",
+            "nota_corte_ordinaria": 8.886
+        },
+        {
+            "codigo": "0277",
+            "carrera": "Ciencia Política y Administración Pública - Mención en Gobierno y dirección pública",
+            "nota_corte_ordinaria": 8.971
+        },
+        {
+            "codigo": "0278",
+            "carrera": "Ciencia Política y Administración Pública - Mención en Relaciones internacionales y Unión Europea",
+            "nota_corte_ordinaria": 11.599
+        },
+        {
+            "codigo": "0263",
+            "carrera": "Derecho",
+            "nota_corte_ordinaria": 9.837
+        },
+        {
+            "codigo": "0273",
+            "carrera": "Derecho - Mención en Derecho de la energía y del medio ambiente",
+            "nota_corte_ordinaria": 9.214
+        },
+        {
+            "codigo": "0274",
+            "carrera": "Derecho - Mención en Derecho de los negocios internacionales",
+            "nota_corte_ordinaria": 11.575
+        },
+        {
+            "codigo": "0275",
+            "carrera": "Derecho - Mención en Derecho digital y de las tecnologías",
+            "nota_corte_ordinaria": 10.958
+        },
+        {
+            "codigo": "0276",
+            "carrera": "Derecho - Mención en Derechos humanos y justicia social",
+            "nota_corte_ordinaria": 10.853
+        },
+        {
+            "codigo": "0264",
+            "carrera": "Economía",
+            "nota_corte_ordinaria": 9.603
+        },
+        {
+            "codigo": "0279",
+            "carrera": "Economía (Grupo bilingüe: español/inglés)",
+            "nota_corte_ordinaria": 9.19
+        },
+        {
+            "codigo": "0265",
+            "carrera": "Economía y Finanzas / Economics and Finance",
+            "nota_corte_ordinaria": 10.905
+        },
+        {
+            "codigo": "0216",
+            "carrera": "Estudios Internacionales",
+            "nota_corte_ordinaria": 10.853
+        },
+        {
+            "codigo": "0266",
+            "carrera": "Geografía, Geotecnologías y Sostenibilidad Territorial",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0267",
+            "carrera": "Gestión Aeronáutica",
+            "nota_corte_ordinaria": 10.715
+        },
+        {
+            "codigo": "0268",
+            "carrera": "Maestro en Educación Infantil",
+            "nota_corte_ordinaria": 8.911
+        },
+        {
+            "codigo": "0269",
+            "carrera": "Maestro en Educación Primaria",
+            "nota_corte_ordinaria": 9.939
+        },
+        {
+            "codigo": "0270",
+            "carrera": "Turismo",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0254",
+            "carrera": "Ciencia e Ingeniería de Datos",
+            "nota_corte_ordinaria": 11.311
+        },
+        {
+            "codigo": "0247",
+            "carrera": "Ingeniería Biomédica",
+            "nota_corte_ordinaria": 12.5
+        },
+        {
+            "codigo": "0252",
+            "carrera": "Ingeniería de Tecnologías de Telecomunicación",
+            "nota_corte_ordinaria": 9.56
+        },
+        {
+            "codigo": "0250",
+            "carrera": "Ingeniería Informática",
+            "nota_corte_ordinaria": 10.715
+        },
+        {
+            "codigo": "0251",
+            "carrera": "Ingeniería Química",
+            "nota_corte_ordinaria": 10.528
+        },
+        {
+            "codigo": "0253",
+            "carrera": "PARS-IA en Máster en Ingeniería de Telecomunicación vía grado en Ingeniería de Tecnologías de Telecomunicación",
+            "nota_corte_ordinaria": 10.667
+        },
+        {
+            "codigo": "0248",
+            "carrera": "PARS-IA en Master en Ingeniería informática vía Grado en Ingeniería Informática",
+            "nota_corte_ordinaria": 11.711
+        },
+        {
+            "codigo": "0283",
+            "carrera": "Ciencias Ambientales - Geografía, Geotecnologías y Sostenibilidad Territorial",
+            "nota_corte_ordinaria": 6.58
+        },
+        {
+            "codigo": "0280",
+            "carrera": "Derecho - Administración y Dirección de Empresas",
+            "nota_corte_ordinaria": 10.928
+        },
+        {
+            "codigo": "0281",
+            "carrera": "Derecho - Ciencia Política y Administración Pública",
+            "nota_corte_ordinaria": 8.911
+        },
+        {
+            "codigo": "0288",
+            "carrera": "Estudios Internacionales - Estudios de Asia y África (árabe)",
+            "nota_corte_ordinaria": 10.336
+        },
+        {
+            "codigo": "0296",
+            "carrera": "Filosofía - Historia",
+            "nota_corte_ordinaria": 12.264
+        },
+        {
+            "codigo": "0286",
+            "carrera": "Filosofía - Historia y CC. de la Música y Tecnología Musical",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0297",
+            "carrera": "Historia - Estudios Internacionales",
+            "nota_corte_ordinaria": 12.964
+        },
+        {
+            "codigo": "0284",
+            "carrera": "Historia del Arte - Estudios Clásicos y de la Antigüedad",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0298",
+            "carrera": "Historia del Arte - Historia",
+            "nota_corte_ordinaria": 12.513
+        },
+        {
+            "codigo": "0282",
+            "carrera": "Ingeniería Informática - Matemáticas",
+            "nota_corte_ordinaria": 13.136
+        },
+        {
+            "codigo": "0287",
+            "carrera": "Maestro en Educación Infantil - Maestro en Educación Primaria",
+            "nota_corte_ordinaria": 10.278
+        },
+        {
+            "codigo": "0228",
+            "carrera": "Nutrición Humana y Dietética - Ciencia y Tecnología de los Alimentos",
+            "nota_corte_ordinaria": 10.87
+        },
+        {
+            "codigo": "0299",
+            "carrera": "Traducción e Interpretación (Francés) - Lenguas Modernas, Cultura y Comunicación (Francés)",
+            "nota_corte_ordinaria": 5.79
+        },
+        {
+            "codigo": "0217",
+            "carrera": "Ciencia, Tecnología y Humanidades (UAB, UAM y UC3M)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0227",
+            "carrera": "Ciencias (UAB, UAM y UC3M)",
+            "nota_corte_ordinaria": 7.7
+        },
+        {
+            "codigo": "0285",
+            "carrera": "Filosofia, Política y Economía (UAB, UAM, UC3M y UPF)",
+            "nota_corte_ordinaria": 11.82
+        },
+        {
+            "codigo": "0271",
+            "carrera": "Diseño y Gestión de Proyectos Transmedia",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0290",
+            "carrera": "Educación Social",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0291",
+            "carrera": "Fisioterapia",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0292",
+            "carrera": "Maestro en Educación Infantil",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0293",
+            "carrera": "Maestro en Educación Primaria",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0238",
+            "carrera": "Podología",
+            "nota_corte_ordinaria": 7.203
+        },
+        {
+            "codigo": "0294",
+            "carrera": "Terapia Ocupacional",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0295",
+            "carrera": "Trabajo Social",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0233",
+            "carrera": "Enfermería",
+            "nota_corte_ordinaria": 10.816
+        },
+        {
+            "codigo": "0234",
+            "carrera": "Enfermería",
+            "nota_corte_ordinaria": 10.486
+        },
+        {
+            "codigo": "0231",
+            "carrera": "Enfermería (Campus Villalba)",
+            "nota_corte_ordinaria": 10.43
+        }
+    ]
+}
