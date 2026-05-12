@@ -1,0 +1,877 @@
+{
+    "universidad": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "curso": "2025/2026",
+    "total_carreras": 174,
+    "grados": [
+        {
+            "codigo": "0001",
+            "carrera": "Arqueología",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0002",
+            "carrera": "Bellas Artes",
+            "nota_corte_ordinaria": 9.936
+        },
+        {
+            "codigo": "0019",
+            "carrera": "Ciencias de las Religiones",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0004",
+            "carrera": "Conservación y Restauración del Patrimonio Cultural",
+            "nota_corte_ordinaria": 9.6
+        },
+        {
+            "codigo": "0005",
+            "carrera": "Diseño",
+            "nota_corte_ordinaria": 11.65
+        },
+        {
+            "codigo": "0006",
+            "carrera": "Español: Lengua y Literatura",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0007",
+            "carrera": "Estudios Ingleses",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0008",
+            "carrera": "Estudios Semíticos e Islámicos",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0020",
+            "carrera": "Estudios Teatrales",
+            "nota_corte_ordinaria": 5.378
+        },
+        {
+            "codigo": "0009",
+            "carrera": "Filología Clásica",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0010",
+            "carrera": "Filosofía",
+            "nota_corte_ordinaria": 5.94
+        },
+        {
+            "codigo": "0021",
+            "carrera": "Filosofía, Política y Economía",
+            "nota_corte_ordinaria": 8.384
+        },
+        {
+            "codigo": "0011",
+            "carrera": "Historia",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0012",
+            "carrera": "Historia del Arte",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0013",
+            "carrera": "Lenguas Modernas y sus Literaturas",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0015",
+            "carrera": "Lingüística y Lenguas Aplicadas",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0018",
+            "carrera": "Literatura General y Comparada",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0016",
+            "carrera": "Musicología",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0014",
+            "carrera": "Traducción e Interpretación",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0030",
+            "carrera": "Biología",
+            "nota_corte_ordinaria": 9.936
+        },
+        {
+            "codigo": "0031",
+            "carrera": "Bioquímica",
+            "nota_corte_ordinaria": 12.262
+        },
+        {
+            "codigo": "0037",
+            "carrera": "Ciencia y Tecnología de los Alimentos",
+            "nota_corte_ordinaria": 8.56
+        },
+        {
+            "codigo": "0032",
+            "carrera": "Física",
+            "nota_corte_ordinaria": 11.811
+        },
+        {
+            "codigo": "0033",
+            "carrera": "Geología",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0034",
+            "carrera": "Matemáticas",
+            "nota_corte_ordinaria": 12.25
+        },
+        {
+            "codigo": "0038",
+            "carrera": "Matemáticas y Ciencia de Datos",
+            "nota_corte_ordinaria": 11.964
+        },
+        {
+            "codigo": "0036",
+            "carrera": "Química",
+            "nota_corte_ordinaria": 10.111
+        },
+        {
+            "codigo": "0050",
+            "carrera": "Enfermería",
+            "nota_corte_ordinaria": 11.603
+        },
+        {
+            "codigo": "0051",
+            "carrera": "Farmacia",
+            "nota_corte_ordinaria": 11.641
+        },
+        {
+            "codigo": "0052",
+            "carrera": "Fisioterapia",
+            "nota_corte_ordinaria": 11.463
+        },
+        {
+            "codigo": "0053",
+            "carrera": "Logopedia",
+            "nota_corte_ordinaria": 9.2
+        },
+        {
+            "codigo": "0054",
+            "carrera": "Medicina",
+            "nota_corte_ordinaria": 13.1
+        },
+        {
+            "codigo": "0055",
+            "carrera": "Nutrición Humana y Dietética",
+            "nota_corte_ordinaria": 10.1
+        },
+        {
+            "codigo": "0056",
+            "carrera": "Odontología",
+            "nota_corte_ordinaria": 12.652
+        },
+        {
+            "codigo": "0057",
+            "carrera": "Óptica y Optometría",
+            "nota_corte_ordinaria": 7.863
+        },
+        {
+            "codigo": "0058",
+            "carrera": "Podología",
+            "nota_corte_ordinaria": 9.453
+        },
+        {
+            "codigo": "0059",
+            "carrera": "Psicología",
+            "nota_corte_ordinaria": 10.525
+        },
+        {
+            "codigo": "0060",
+            "carrera": "Terapia Ocupacional",
+            "nota_corte_ordinaria": 9.089
+        },
+        {
+            "codigo": "0061",
+            "carrera": "Veterinaria",
+            "nota_corte_ordinaria": 11.814
+        },
+        {
+            "codigo": "0088",
+            "carrera": "Desarrollo de Videojuegos",
+            "nota_corte_ordinaria": 9.689
+        },
+        {
+            "codigo": "0080",
+            "carrera": "Ingeniería de Computadores",
+            "nota_corte_ordinaria": 9.48
+        },
+        {
+            "codigo": "0089",
+            "carrera": "Ingeniería de Datos e Inteligencia Artificial",
+            "nota_corte_ordinaria": 12.775
+        },
+        {
+            "codigo": "0086",
+            "carrera": "Ingeniería de Materiales",
+            "nota_corte_ordinaria": 9.203
+        },
+        {
+            "codigo": "0081",
+            "carrera": "Ingeniería del Software",
+            "nota_corte_ordinaria": 10.15
+        },
+        {
+            "codigo": "0087",
+            "carrera": "Ingeniería Electrónica de Comunicaciones",
+            "nota_corte_ordinaria": 8.653
+        },
+        {
+            "codigo": "0083",
+            "carrera": "Ingeniería Geológica",
+            "nota_corte_ordinaria": 5.361
+        },
+        {
+            "codigo": "0082",
+            "carrera": "Ingeniería Informática",
+            "nota_corte_ordinaria": 10.761
+        },
+        {
+            "codigo": "0084",
+            "carrera": "Ingeniería Matemática",
+            "nota_corte_ordinaria": 12.625
+        },
+        {
+            "codigo": "0085",
+            "carrera": "Ingeniería Química",
+            "nota_corte_ordinaria": 11.033
+        },
+        {
+            "codigo": "0100",
+            "carrera": "Administración y Dirección de Empresas",
+            "nota_corte_ordinaria": 9.564
+        },
+        {
+            "codigo": "0128",
+            "carrera": "Administración y Dirección de Empresas (en inglés)",
+            "nota_corte_ordinaria": 10.714
+        },
+        {
+            "codigo": "0101",
+            "carrera": "Antropología Social y Cultural",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0125",
+            "carrera": "Ciencia de los Datos Aplicada",
+            "nota_corte_ordinaria": 10.937
+        },
+        {
+            "codigo": "0102",
+            "carrera": "Ciencias Políticas",
+            "nota_corte_ordinaria": 5.778
+        },
+        {
+            "codigo": "0103",
+            "carrera": "Comercio",
+            "nota_corte_ordinaria": 8.15
+        },
+        {
+            "codigo": "0104",
+            "carrera": "Comunicación Audiovisual",
+            "nota_corte_ordinaria": 9.544
+        },
+        {
+            "codigo": "0126",
+            "carrera": "Criminología",
+            "nota_corte_ordinaria": 11.233
+        },
+        {
+            "codigo": "0106",
+            "carrera": "Derecho",
+            "nota_corte_ordinaria": 8.439
+        },
+        {
+            "codigo": "0108",
+            "carrera": "Economía",
+            "nota_corte_ordinaria": 8.8
+        },
+        {
+            "codigo": "0129",
+            "carrera": "Economía (en inglés)",
+            "nota_corte_ordinaria": 9.545
+        },
+        {
+            "codigo": "0109",
+            "carrera": "Educación Social",
+            "nota_corte_ordinaria": 8.5
+        },
+        {
+            "codigo": "0110",
+            "carrera": "Estadística Aplicada",
+            "nota_corte_ordinaria": 8.878
+        },
+        {
+            "codigo": "0127",
+            "carrera": "Finanzas, Banca y Seguros",
+            "nota_corte_ordinaria": 9.42
+        },
+        {
+            "codigo": "0111",
+            "carrera": "Geografía y Ordenación del Territorio",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0112",
+            "carrera": "Gestión y Administración Pública",
+            "nota_corte_ordinaria": 5.228
+        },
+        {
+            "codigo": "0114",
+            "carrera": "Información y Documentación",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0115",
+            "carrera": "Maestro de Educación Infantil",
+            "nota_corte_ordinaria": 9.05
+        },
+        {
+            "codigo": "0116",
+            "carrera": "Maestro de Educación Primaria",
+            "nota_corte_ordinaria": 10.262
+        },
+        {
+            "codigo": "0117",
+            "carrera": "Pedagogía",
+            "nota_corte_ordinaria": 8.6
+        },
+        {
+            "codigo": "0118",
+            "carrera": "Periodismo",
+            "nota_corte_ordinaria": 6.575
+        },
+        {
+            "codigo": "0119",
+            "carrera": "Publicidad y Relaciones Públicas",
+            "nota_corte_ordinaria": 10.364
+        },
+        {
+            "codigo": "0120",
+            "carrera": "Relaciones Internacionales",
+            "nota_corte_ordinaria": 11.185
+        },
+        {
+            "codigo": "0121",
+            "carrera": "Relaciones Laborales y Recursos Humanos",
+            "nota_corte_ordinaria": 7.35
+        },
+        {
+            "codigo": "0122",
+            "carrera": "Sociología",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0123",
+            "carrera": "Trabajo Social",
+            "nota_corte_ordinaria": 7.14
+        },
+        {
+            "codigo": "0124",
+            "carrera": "Turismo",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0130",
+            "carrera": "ADE - Ingeniería Informática",
+            "nota_corte_ordinaria": 11.316
+        },
+        {
+            "codigo": "0148",
+            "carrera": "Ciencias Políticas - Filosofía",
+            "nota_corte_ordinaria": 5.089
+        },
+        {
+            "codigo": "0140",
+            "carrera": "Derecho - ADE",
+            "nota_corte_ordinaria": 10.177
+        },
+        {
+            "codigo": "0143",
+            "carrera": "Derecho - Ciencias Políticas",
+            "nota_corte_ordinaria": 10.15
+        },
+        {
+            "codigo": "0194",
+            "carrera": "Derecho - Estudios Jurídico Militares",
+            "nota_corte_ordinaria": 8.875
+        },
+        {
+            "codigo": "0145",
+            "carrera": "Derecho - Filosofía",
+            "nota_corte_ordinaria": 8.428
+        },
+        {
+            "codigo": "0141",
+            "carrera": "Derecho - Relaciones Laborales y Recursos Humanos",
+            "nota_corte_ordinaria": 8.114
+        },
+        {
+            "codigo": "0137",
+            "carrera": "Economía - Matemáticas y Ciencia de Datos",
+            "nota_corte_ordinaria": 12.716
+        },
+        {
+            "codigo": "0134",
+            "carrera": "Economía - Relaciones Internacionales",
+            "nota_corte_ordinaria": 12.315
+        },
+        {
+            "codigo": "0199",
+            "carrera": "Farmacia - Nutrición Humana y Dietética",
+            "nota_corte_ordinaria": 12.328
+        },
+        {
+            "codigo": "0135",
+            "carrera": "Gestión y Administración Pública - Economía",
+            "nota_corte_ordinaria": 8.375
+        },
+        {
+            "codigo": "0147",
+            "carrera": "Historia - Filología Clásica",
+            "nota_corte_ordinaria": 8.81
+        },
+        {
+            "codigo": "0142",
+            "carrera": "Ingeniería Informática - Matemáticas",
+            "nota_corte_ordinaria": 13.465
+        },
+        {
+            "codigo": "0131",
+            "carrera": "Maestro de Ed. Infantil - Maestro de Ed. Primaria",
+            "nota_corte_ordinaria": 11.199
+        },
+        {
+            "codigo": "0132",
+            "carrera": "Maestro de Educación Infantil - Pedagogía",
+            "nota_corte_ordinaria": 10.275
+        },
+        {
+            "codigo": "0133",
+            "carrera": "Maestro de Educación Primaria - Pedagogía",
+            "nota_corte_ordinaria": 11.462
+        },
+        {
+            "codigo": "0144",
+            "carrera": "Matemáticas - Física",
+            "nota_corte_ordinaria": 13.698
+        },
+        {
+            "codigo": "0197",
+            "carrera": "Psicología - Logopedia",
+            "nota_corte_ordinaria": 10.525
+        },
+        {
+            "codigo": "0136",
+            "carrera": "Química - Bioquímica",
+            "nota_corte_ordinaria": 12.617
+        },
+        {
+            "codigo": "0149",
+            "carrera": "Sociología - Relaciones Internacionales",
+            "nota_corte_ordinaria": 10.514
+        },
+        {
+            "codigo": "0198",
+            "carrera": "Turismo - Comercio",
+            "nota_corte_ordinaria": 7.211
+        },
+        {
+            "codigo": "0196",
+            "carrera": "Bachelor of Arts in European Studies",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0138",
+            "carrera": "Titulación Internacional en ADE (UCM-HWR Berlín)",
+            "nota_corte_ordinaria": 11.948
+        },
+        {
+            "codigo": "0107",
+            "carrera": "Titulación Internacional en Derecho (UCM-Sorbona)",
+            "nota_corte_ordinaria": 11.449
+        },
+        {
+            "codigo": "0139",
+            "carrera": "Titulación Internacional en Economía (UCM-Sorbona)",
+            "nota_corte_ordinaria": 12.062
+        },
+        {
+            "codigo": "0150",
+            "carrera": "Administración y Dirección de Empresas",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0151",
+            "carrera": "Derecho",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0153",
+            "carrera": "Derecho - ADE",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0152",
+            "carrera": "Psicología",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0160",
+            "carrera": "Educación Social",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0161",
+            "carrera": "Maestro de Educación Infantil",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0169",
+            "carrera": "Maestro de Educación Infantil - Maestro de Educación Primaria",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0162",
+            "carrera": "Maestro de Educación Primaria",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0168",
+            "carrera": "Maestro de Educación Primaria - Pedagogía",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0163",
+            "carrera": "Pedagogía",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0180",
+            "carrera": "Derecho",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0195",
+            "carrera": "Derecho",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0400",
+            "carrera": "Estudios Hispánicos",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0401",
+            "carrera": "Estudios Ingleses",
+            "nota_corte_ordinaria": 6.864
+        },
+        {
+            "codigo": "0402",
+            "carrera": "Historia",
+            "nota_corte_ordinaria": 5.71
+        },
+        {
+            "codigo": "0403",
+            "carrera": "Humanidades",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0404",
+            "carrera": "Lenguas Modernas y Traducción",
+            "nota_corte_ordinaria": 5.659
+        },
+        {
+            "codigo": "0405",
+            "carrera": "Lenguas Modernas y Traducción (Guadalajara)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0410",
+            "carrera": "Biología",
+            "nota_corte_ordinaria": 9.7
+        },
+        {
+            "codigo": "0411",
+            "carrera": "Ciencias Ambientales",
+            "nota_corte_ordinaria": 7.106
+        },
+        {
+            "codigo": "0413",
+            "carrera": "Criminalística: Ciencias y Tecnologías Forenses",
+            "nota_corte_ordinaria": 11.636
+        },
+        {
+            "codigo": "0415",
+            "carrera": "Física e Instrumentación Espacial",
+            "nota_corte_ordinaria": 11.83
+        },
+        {
+            "codigo": "0412",
+            "carrera": "Química",
+            "nota_corte_ordinaria": 9.864
+        },
+        {
+            "codigo": "0420",
+            "carrera": "Biología Sanitaria",
+            "nota_corte_ordinaria": 11.839
+        },
+        {
+            "codigo": "0421",
+            "carrera": "Ciencias de la Actividad Física y del Deporte",
+            "nota_corte_ordinaria": 10.325
+        },
+        {
+            "codigo": "0422",
+            "carrera": "Enfermería",
+            "nota_corte_ordinaria": 11.426
+        },
+        {
+            "codigo": "0423",
+            "carrera": "Enfermería (Guadalajara)",
+            "nota_corte_ordinaria": 11.1
+        },
+        {
+            "codigo": "0427",
+            "carrera": "Enfermería (Torrejón de Ardoz)",
+            "nota_corte_ordinaria": 11.303
+        },
+        {
+            "codigo": "0424",
+            "carrera": "Farmacia",
+            "nota_corte_ordinaria": 11.22
+        },
+        {
+            "codigo": "0425",
+            "carrera": "Fisioterapia",
+            "nota_corte_ordinaria": 10.85
+        },
+        {
+            "codigo": "0428",
+            "carrera": "Fisioterapia (Torrejón de Ardoz)",
+            "nota_corte_ordinaria": 10.55
+        },
+        {
+            "codigo": "0426",
+            "carrera": "Medicina",
+            "nota_corte_ordinaria": 12.871
+        },
+        {
+            "codigo": "0460",
+            "carrera": "Administración y Dirección de Empresas",
+            "nota_corte_ordinaria": 9.225
+        },
+        {
+            "codigo": "0461",
+            "carrera": "Administración y Dirección de Empresas (Guadalajara)",
+            "nota_corte_ordinaria": 7.882
+        },
+        {
+            "codigo": "0462",
+            "carrera": "Comunicación Audiovisual (Guadalajara)",
+            "nota_corte_ordinaria": 7.89
+        },
+        {
+            "codigo": "0463",
+            "carrera": "Finanzas",
+            "nota_corte_ordinaria": 7.541
+        },
+        {
+            "codigo": "0464",
+            "carrera": "Derecho",
+            "nota_corte_ordinaria": 8.328
+        },
+        {
+            "codigo": "0465",
+            "carrera": "Economía",
+            "nota_corte_ordinaria": 7.664
+        },
+        {
+            "codigo": "0466",
+            "carrera": "Economía y Negocios Internacionales",
+            "nota_corte_ordinaria": 11.203
+        },
+        {
+            "codigo": "0471",
+            "carrera": "Economía y Negocios Internaciones (docencia en inglés)",
+            "nota_corte_ordinaria": 10.428
+        },
+        {
+            "codigo": "0468",
+            "carrera": "Magisterio de Educación Infantil (Guadalajara)",
+            "nota_corte_ordinaria": 8.253
+        },
+        {
+            "codigo": "0467",
+            "carrera": "Magisterio de Educación Primaria (bilingüe) (docencia en inglés) (Guadalajara)",
+            "nota_corte_ordinaria": 5.561
+        },
+        {
+            "codigo": "0469",
+            "carrera": "Magisterio de Educación Primaria (Guadalajara)",
+            "nota_corte_ordinaria": 8.7
+        },
+        {
+            "codigo": "0470",
+            "carrera": "Turismo (Guadalajara)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0442",
+            "carrera": "Arquitectura Técnica y Edificación (Guadalajara)",
+            "nota_corte_ordinaria": 7.707
+        },
+        {
+            "codigo": "0440",
+            "carrera": "Fundamentos de Arquitectura y Urbanismo",
+            "nota_corte_ordinaria": 10.148
+        },
+        {
+            "codigo": "0441",
+            "carrera": "Ingeniería de Computadores",
+            "nota_corte_ordinaria": 8.575
+        },
+        {
+            "codigo": "0444",
+            "carrera": "Ingeniería Electrónica de Comunicaciones",
+            "nota_corte_ordinaria": 7.504
+        },
+        {
+            "codigo": "0443",
+            "carrera": "Ingeniería Electrónica y Automática Industrial",
+            "nota_corte_ordinaria": 9.976
+        },
+        {
+            "codigo": "0449",
+            "carrera": "Ingeniería en Sistemas de Información",
+            "nota_corte_ordinaria": 8.139
+        },
+        {
+            "codigo": "0447",
+            "carrera": "Ingeniería en Sistemas de Telecomunicación",
+            "nota_corte_ordinaria": 7.8
+        },
+        {
+            "codigo": "0451",
+            "carrera": "Ingeniería en Tecnologías de Telecomunicación",
+            "nota_corte_ordinaria": 8.003
+        },
+        {
+            "codigo": "0446",
+            "carrera": "Ingeniería en Tecnologías de Telecomunicación + Master Universitario en Ingeniería de Telecomunicaciones",
+            "nota_corte_ordinaria": 8.553
+        },
+        {
+            "codigo": "0450",
+            "carrera": "Ingeniería en Tecnologías Industriales",
+            "nota_corte_ordinaria": 11.0
+        },
+        {
+            "codigo": "0452",
+            "carrera": "Ingeniería en Tecnologías Industriales + Master Universitario en Ing. Industrial",
+            "nota_corte_ordinaria": 11.614
+        },
+        {
+            "codigo": "0445",
+            "carrera": "Ingeniería Informática",
+            "nota_corte_ordinaria": 10.7
+        },
+        {
+            "codigo": "0448",
+            "carrera": "Ingeniería Telemática",
+            "nota_corte_ordinaria": 7.575
+        },
+        {
+            "codigo": "0439",
+            "carrera": "Matemáticas y Computación (Guadalajara)",
+            "nota_corte_ordinaria": 10.064
+        },
+        {
+            "codigo": "0480",
+            "carrera": "Derecho - Administración y Dirección de Empresas",
+            "nota_corte_ordinaria": 9.516
+        },
+        {
+            "codigo": "0486",
+            "carrera": "Estudios Ingleses - Lenguas Modernas y Traducción",
+            "nota_corte_ordinaria": 9.334
+        },
+        {
+            "codigo": "0482",
+            "carrera": "Humanidades - Magisterio en Educación Primaria",
+            "nota_corte_ordinaria": 9.489
+        },
+        {
+            "codigo": "0484",
+            "carrera": "Ingeniería Informática - Administración y Dirección de Empresas",
+            "nota_corte_ordinaria": 10.436
+        },
+        {
+            "codigo": "0485",
+            "carrera": "Ingeniería Electrónica de Comunicaciones - Ing. Electrónica y Automática Industrial",
+            "nota_corte_ordinaria": 8.987
+        },
+        {
+            "codigo": "0483",
+            "carrera": "Magisterio de Educación Infantil - Magisterio de Educación Primaria (Guadalajara)",
+            "nota_corte_ordinaria": 9.36
+        },
+        {
+            "codigo": "0481",
+            "carrera": "Turismo - Admón. y Dirección de Empresas (Guadalajara)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0490",
+            "carrera": "Educación Social",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0491",
+            "carrera": "Magisterio de Educación Infantil",
+            "nota_corte_ordinaria": 5.336
+        },
+        {
+            "codigo": "0492",
+            "carrera": "Magisterio de Educación Infantil (bilingüe) (docencia en inglés)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0495",
+            "carrera": "Magisterio de Educación Infantil (semipresencial)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0493",
+            "carrera": "Magisterio de Educación Primaria",
+            "nota_corte_ordinaria": 7.14
+        },
+        {
+            "codigo": "0494",
+            "carrera": "Magisterio de Educación Primaria (bilingüe) (docencia en inglés)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0496",
+            "carrera": "Magisterio de Educación Primaria (Semipresencial)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0497",
+            "carrera": "Psicología",
+            "nota_corte_ordinaria": 9.199
+        }
+    ]
+}
