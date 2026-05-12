@@ -1,0 +1,1422 @@
+{
+    "universidad": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "curso": "2025/2026",
+    "total_carreras": 283,
+    "grados": [
+        {
+            "codigo": "0330",
+            "carrera": "Ciencias Agrarias y Bioeconomía",
+            "nota_corte_ordinaria": 6.851
+        },
+        {
+            "codigo": "0345",
+            "carrera": "Matemáticas",
+            "nota_corte_ordinaria": 12.058
+        },
+        {
+            "codigo": "0350",
+            "carrera": "Ciencias de la Actividad Física y del Deporte (INEF)",
+            "nota_corte_ordinaria": 8.925
+        },
+        {
+            "codigo": "0381",
+            "carrera": "Arquitecto/a (PARS)",
+            "nota_corte_ordinaria": 13.089
+        },
+        {
+            "codigo": "0325",
+            "carrera": "Arquitectura Naval / Ingeniería Marítima",
+            "nota_corte_ordinaria": 10.467
+        },
+        {
+            "codigo": "0333",
+            "carrera": "Biotecnología",
+            "nota_corte_ordinaria": 12.728
+        },
+        {
+            "codigo": "0343",
+            "carrera": "Ciencia de Datos e Inteligencia Artificial (Campus de Montegancedo)",
+            "nota_corte_ordinaria": 11.899
+        },
+        {
+            "codigo": "0344",
+            "carrera": "Ciencia de Datos e Inteligencia Artificial (Campus Sur)",
+            "nota_corte_ordinaria": 12.139
+        },
+        {
+            "codigo": "0308",
+            "carrera": "Edificación",
+            "nota_corte_ordinaria": 7.637
+        },
+        {
+            "codigo": "0300",
+            "carrera": "Fundamentos de la Arquitectura",
+            "nota_corte_ordinaria": 11.091
+        },
+        {
+            "codigo": "0338",
+            "carrera": "Gestión y Operaciones del Transporte Aéreo",
+            "nota_corte_ordinaria": 11.478
+        },
+        {
+            "codigo": "0301",
+            "carrera": "Ingeniería Aeroespacial",
+            "nota_corte_ordinaria": 12.484
+        },
+        {
+            "codigo": "0389",
+            "carrera": "Ingeniero/a Aeronáutico/a (PARS)",
+            "nota_corte_ordinaria": 13.411
+        },
+        {
+            "codigo": "0302",
+            "carrera": "Ingeniería Agrícola",
+            "nota_corte_ordinaria": 8.173
+        },
+        {
+            "codigo": "0378",
+            "carrera": "Ingeniero/a Agrónomo/a (PARS)",
+            "nota_corte_ordinaria": 10.814
+        },
+        {
+            "codigo": "0303",
+            "carrera": "Ingeniería Agroambiental",
+            "nota_corte_ordinaria": 5.75
+        },
+        {
+            "codigo": "0304",
+            "carrera": "Ingeniería Alimentaria",
+            "nota_corte_ordinaria": 7.015
+        },
+        {
+            "codigo": "0334",
+            "carrera": "Ingeniería Biomédica",
+            "nota_corte_ordinaria": 12.553
+        },
+        {
+            "codigo": "0388",
+            "carrera": "Ingeniero/a Biomédico/a (PARS)",
+            "nota_corte_ordinaria": 13.15
+        },
+        {
+            "codigo": "0306",
+            "carrera": "Ingeniería Civil y Territorial (Moncloa)",
+            "nota_corte_ordinaria": 10.053
+        },
+        {
+            "codigo": "0346",
+            "carrera": "Ingeniería Civil y Territorial (Retiro)",
+            "nota_corte_ordinaria": 9.675
+        },
+        {
+            "codigo": "0375",
+            "carrera": "Ingeniero/a de Caminos, Canales y Puertos (PARS)",
+            "nota_corte_ordinaria": 11.961
+        },
+        {
+            "codigo": "0307",
+            "carrera": "Ingeniería de Computadores",
+            "nota_corte_ordinaria": 9.311
+        },
+        {
+            "codigo": "0309",
+            "carrera": "Ingeniería de la Energía",
+            "nota_corte_ordinaria": 11.039
+        },
+        {
+            "codigo": "0339",
+            "carrera": "Ingeniería de las Tecnologías de la Información Geoespacial",
+            "nota_corte_ordinaria": 7.31
+        },
+        {
+            "codigo": "0310",
+            "carrera": "Ingeniería de Materiales",
+            "nota_corte_ordinaria": 9.561
+        },
+        {
+            "codigo": "0385",
+            "carrera": "Ingeniero/a de Materiales (PARS)",
+            "nota_corte_ordinaria": 10.728
+        },
+        {
+            "codigo": "0380",
+            "carrera": "Ingeniero/a de Minas (PARS)",
+            "nota_corte_ordinaria": 10.388
+        },
+        {
+            "codigo": "0371",
+            "carrera": "Ingeniero/a de Montes (PARS)",
+            "nota_corte_ordinaria": 8.739
+        },
+        {
+            "codigo": "0336",
+            "carrera": "Ingeniería de Organización",
+            "nota_corte_ordinaria": 12.636
+        },
+        {
+            "codigo": "0311",
+            "carrera": "Ingeniería de Sistemas de Telecomunicación",
+            "nota_corte_ordinaria": 9.186
+        },
+        {
+            "codigo": "0312",
+            "carrera": "Ingeniería de Sonido e Imagen",
+            "nota_corte_ordinaria": 8.066
+        },
+        {
+            "codigo": "0313",
+            "carrera": "Ingeniería de Tecnologías y Servicios de Telecomunicación",
+            "nota_corte_ordinaria": 9.408
+        },
+        {
+            "codigo": "0377",
+            "carrera": "Ingeniero/a de Telecomunicación (PARS)",
+            "nota_corte_ordinaria": 11.686
+        },
+        {
+            "codigo": "0314",
+            "carrera": "Ingeniería del Medio Natural",
+            "nota_corte_ordinaria": 5.744
+        },
+        {
+            "codigo": "0315",
+            "carrera": "Ingeniería del Software",
+            "nota_corte_ordinaria": 10.036
+        },
+        {
+            "codigo": "0372",
+            "carrera": "Ingeniero/a del Software (PARS)",
+            "nota_corte_ordinaria": 11.533
+        },
+        {
+            "codigo": "0316",
+            "carrera": "Ingeniería Eléctrica",
+            "nota_corte_ordinaria": 10.45
+        },
+        {
+            "codigo": "0317",
+            "carrera": "Ingeniería Electrónica de Comunicaciones",
+            "nota_corte_ordinaria": 8.361
+        },
+        {
+            "codigo": "0318",
+            "carrera": "Ingeniería Electrónica Industrial y Automática",
+            "nota_corte_ordinaria": 10.67
+        },
+        {
+            "codigo": "0319",
+            "carrera": "Ingeniería en Diseño Industrial y Desarrollo de Producto",
+            "nota_corte_ordinaria": 12.461
+        },
+        {
+            "codigo": "0373",
+            "carrera": "Ingeniero/a Sistemas Informáticos Distribuidos y Embebidos (PARS)",
+            "nota_corte_ordinaria": 8.728
+        },
+        {
+            "codigo": "0320",
+            "carrera": "Ingeniería en Tecnología Minera / Ing. Geológica / Ing. Mineralúrgica y Metalúrgica de las Materias Primas / Ing. en Recursos Energéticos, Combustibles y Explosivos",
+            "nota_corte_ordinaria": 8.39
+        },
+        {
+            "codigo": "0347",
+            "carrera": "Ingeniería en Tecnologías Aeroespaciales",
+            "nota_corte_ordinaria": 12.363
+        },
+        {
+            "codigo": "0337",
+            "carrera": "Ingeniería en Tecnologías Ambientales",
+            "nota_corte_ordinaria": 6.464
+        },
+        {
+            "codigo": "0321",
+            "carrera": "Ingeniería en Tecnologías Industriales",
+            "nota_corte_ordinaria": 12.114
+        },
+        {
+            "codigo": "0322",
+            "carrera": "Ingeniería Forestal",
+            "nota_corte_ordinaria": 5.404
+        },
+        {
+            "codigo": "0323",
+            "carrera": "Ingeniería Geomática",
+            "nota_corte_ordinaria": 6.686
+        },
+        {
+            "codigo": "0386",
+            "carrera": "Ingeniero/a Industrial (PARS)",
+            "nota_corte_ordinaria": 13.525
+        },
+        {
+            "codigo": "0324",
+            "carrera": "Ingeniería Informática",
+            "nota_corte_ordinaria": 10.175
+        },
+        {
+            "codigo": "0376",
+            "carrera": "Ingeniero/a Informática (PARS)",
+            "nota_corte_ordinaria": 11.425
+        },
+        {
+            "codigo": "0326",
+            "carrera": "Ingeniería Mecánica",
+            "nota_corte_ordinaria": 11.867
+        },
+        {
+            "codigo": "0387",
+            "carrera": "Ingeniero/a Naval y Oceánica (PARS)",
+            "nota_corte_ordinaria": 11.978
+        },
+        {
+            "codigo": "0327",
+            "carrera": "Ingeniería Química (Castellana)",
+            "nota_corte_ordinaria": 11.707
+        },
+        {
+            "codigo": "0328",
+            "carrera": "Ingeniería Química (Embajadores)",
+            "nota_corte_ordinaria": 10.883
+        },
+        {
+            "codigo": "0329",
+            "carrera": "Ingeniería Telemática",
+            "nota_corte_ordinaria": 8.54
+        },
+        {
+            "codigo": "0341",
+            "carrera": "Ingeniería y Sistemas de datos (Campus Moncloa)",
+            "nota_corte_ordinaria": 11.128
+        },
+        {
+            "codigo": "0331",
+            "carrera": "Matemáticas e Informática",
+            "nota_corte_ordinaria": 11.507
+        },
+        {
+            "codigo": "0335",
+            "carrera": "Sistemas de Información",
+            "nota_corte_ordinaria": 9.08
+        },
+        {
+            "codigo": "0332",
+            "carrera": "Tecnologías para la Sociedad de la Información",
+            "nota_corte_ordinaria": 8.19
+        },
+        {
+            "codigo": "0361",
+            "carrera": "Edificación - Administración y Dirección de Empresas",
+            "nota_corte_ordinaria": 8.115
+        },
+        {
+            "codigo": "0366",
+            "carrera": "Ingeniería Civil y Territorial - Administración y Dirección de Empresas",
+            "nota_corte_ordinaria": 10.741
+        },
+        {
+            "codigo": "0362",
+            "carrera": "Ingeniería Eléctrica - Ingeniería Electrónica Industrial y Automática",
+            "nota_corte_ordinaria": 11.361
+        },
+        {
+            "codigo": "0367",
+            "carrera": "Ingeniería Electrónica de Comunicaciones - Ingeniería Telemática",
+            "nota_corte_ordinaria": 8.214
+        },
+        {
+            "codigo": "0360",
+            "carrera": "Ingeniería en Diseño Industrial y Desarrollo de Producto - Ingeniería Mecánica",
+            "nota_corte_ordinaria": 12.878
+        },
+        {
+            "codigo": "0369",
+            "carrera": "Ingeniería Geomática e Ingeniería de las Tecnologías de la Información Geoespacial (Campus Sur)",
+            "nota_corte_ordinaria": 7.177
+        },
+        {
+            "codigo": "0365",
+            "carrera": "Ingeniería Informática - Administración y Dirección de Empresas",
+            "nota_corte_ordinaria": 11.589
+        },
+        {
+            "codigo": "0359",
+            "carrera": "Ingeniería y Sistemas de Datos e Ingeniería Telemática (Campus Sur)",
+            "nota_corte_ordinaria": 8.828
+        },
+        {
+            "codigo": "0368",
+            "carrera": "Diseño de Moda (UPM) y Comercio (UCM)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0340",
+            "carrera": "Diseño de Moda",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0600",
+            "carrera": "Artes Visuales y Danza (Fuenlabrada)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0802",
+            "carrera": "Bellas Artes (Aranjuez)",
+            "nota_corte_ordinaria": 8.564
+        },
+        {
+            "codigo": "0806",
+            "carrera": "Diseño Integral y Gestión de la Imagen (Aranjuez)",
+            "nota_corte_ordinaria": 9.846
+        },
+        {
+            "codigo": "0884",
+            "carrera": "Diseño Integral y Gestión de la Imagen (Madrid)",
+            "nota_corte_ordinaria": 11.5
+        },
+        {
+            "codigo": "0601",
+            "carrera": "Diseño y Gestión de Moda (Aranjuez)",
+            "nota_corte_ordinaria": 10.018
+        },
+        {
+            "codigo": "0908",
+            "carrera": "Filosofía (Fuenlabrada)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0720",
+            "carrera": "Historia (Fuenlabrada)",
+            "nota_corte_ordinaria": 6.1
+        },
+        {
+            "codigo": "0950",
+            "carrera": "HIstoria del Arte y Patrimonio Cultural (Aranjuez)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0721",
+            "carrera": "Lengua y Literatura Española (Fuenlabrada)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0722",
+            "carrera": "Paisajismo (Fuenlabrada)",
+            "nota_corte_ordinaria": 6.93
+        },
+        {
+            "codigo": "0833",
+            "carrera": "Traducción e Interpretación (Aranjuez)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0951",
+            "carrera": "Traducción e Interpretación (Fuenlabrada)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0610",
+            "carrera": "Biología (Móstoles)",
+            "nota_corte_ordinaria": 9.95
+        },
+        {
+            "codigo": "0611",
+            "carrera": "Ciencia y Tecnología de los Alimentos (Móstoles)",
+            "nota_corte_ordinaria": 8.149
+        },
+        {
+            "codigo": "0935",
+            "carrera": "Ciencia y Tecnología del Agua",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0612",
+            "carrera": "Ciencias Ambientales (Móstoles)",
+            "nota_corte_ordinaria": 7.553
+        },
+        {
+            "codigo": "0613",
+            "carrera": "Ciencias Experimentales (Móstoles)",
+            "nota_corte_ordinaria": 7.661
+        },
+        {
+            "codigo": "0830",
+            "carrera": "Matemáticas (Móstoles)",
+            "nota_corte_ordinaria": 11.753
+        },
+        {
+            "codigo": "0907",
+            "carrera": "Nanociencia y Nanotecnología (Móstoles)",
+            "nota_corte_ordinaria": 10.214
+        },
+        {
+            "codigo": "0620",
+            "carrera": "Enfermería (Alcorcón)",
+            "nota_corte_ordinaria": 11.675
+        },
+        {
+            "codigo": "0932",
+            "carrera": "Farmacia (Alcorcón)",
+            "nota_corte_ordinaria": 11.778
+        },
+        {
+            "codigo": "0621",
+            "carrera": "Fisioterapia (Alcorcón)",
+            "nota_corte_ordinaria": 10.954
+        },
+        {
+            "codigo": "0622",
+            "carrera": "Medicina (Alcorcón)",
+            "nota_corte_ordinaria": 12.932
+        },
+        {
+            "codigo": "0623",
+            "carrera": "Odontología (Alcorcón)",
+            "nota_corte_ordinaria": 12.59
+        },
+        {
+            "codigo": "0624",
+            "carrera": "Psicología (Alcorcón)",
+            "nota_corte_ordinaria": 10.989
+        },
+        {
+            "codigo": "0625",
+            "carrera": "Terapia Ocupacional (Alcorcón)",
+            "nota_corte_ordinaria": 9.128
+        },
+        {
+            "codigo": "0835",
+            "carrera": "Ciencia e Ingeniería de Datos (Fuenlabrada)",
+            "nota_corte_ordinaria": 10.403
+        },
+        {
+            "codigo": "0886",
+            "carrera": "Diseño y Desarrollo de Videojuegos (Madrid)",
+            "nota_corte_ordinaria": 9.489
+        },
+        {
+            "codigo": "0815",
+            "carrera": "Diseño y Desarrollo de Videojuegos (Móstoles)",
+            "nota_corte_ordinaria": 9.404
+        },
+        {
+            "codigo": "0643",
+            "carrera": "Fundamentos de la Arquitectura (Fuenlabrada)",
+            "nota_corte_ordinaria": 10.428
+        },
+        {
+            "codigo": "0647",
+            "carrera": "Ingeniería Aeroespacial (Fuenlabrada)",
+            "nota_corte_ordinaria": 12.114
+        },
+        {
+            "codigo": "0630",
+            "carrera": "Ingeniería Ambiental (Móstoles)",
+            "nota_corte_ordinaria": 7.848
+        },
+        {
+            "codigo": "0834",
+            "carrera": "Ingeniería Biomédica (Fuenlabrada)",
+            "nota_corte_ordinaria": 12.339
+        },
+        {
+            "codigo": "0913",
+            "carrera": "Ingeniería Biomédica (inglés) (Fuenlabrada)",
+            "nota_corte_ordinaria": 12.139
+        },
+        {
+            "codigo": "0631",
+            "carrera": "Ingeniería de Computadores (Móstoles)",
+            "nota_corte_ordinaria": 9.186
+        },
+        {
+            "codigo": "0921",
+            "carrera": "Ingeniería de la Ciberseguridad (Móstoles)",
+            "nota_corte_ordinaria": 10.803
+        },
+        {
+            "codigo": "0633",
+            "carrera": "Ingeniería de la Energía (Móstoles)",
+            "nota_corte_ordinaria": 10.04
+        },
+        {
+            "codigo": "0634",
+            "carrera": "Ingeniería de Materiales (Móstoles)",
+            "nota_corte_ordinaria": 9.525
+        },
+        {
+            "codigo": "0922",
+            "carrera": "Ingeniería de Robótica Software (Fuenlabrada)",
+            "nota_corte_ordinaria": 9.814
+        },
+        {
+            "codigo": "0632",
+            "carrera": "Ingeniería del Software (Móstoles)",
+            "nota_corte_ordinaria": 9.986
+        },
+        {
+            "codigo": "0934",
+            "carrera": "Ingeniería Electrónica Industrial y Automática (Móstoles)",
+            "nota_corte_ordinaria": 10.075
+        },
+        {
+            "codigo": "0648",
+            "carrera": "Ingeniería en Organización Industrial (Móstoles)",
+            "nota_corte_ordinaria": 11.257
+        },
+        {
+            "codigo": "0645",
+            "carrera": "Ingeniería en Organización Industrial (Vicalvaro)",
+            "nota_corte_ordinaria": 10.95
+        },
+        {
+            "codigo": "0637",
+            "carrera": "Ingeniería en Tecnologías de la Telecomunicación (Fuenlabrada)",
+            "nota_corte_ordinaria": 8.15
+        },
+        {
+            "codigo": "0646",
+            "carrera": "Ingeniería en Tecnologías Industriales (Móstoles)",
+            "nota_corte_ordinaria": 10.952
+        },
+        {
+            "codigo": "0639",
+            "carrera": "Ingeniería Informática (Móstoles)",
+            "nota_corte_ordinaria": 10.503
+        },
+        {
+            "codigo": "0640",
+            "carrera": "Ingeniería Informática (Vicalvaro)",
+            "nota_corte_ordinaria": 10.036
+        },
+        {
+            "codigo": "0914",
+            "carrera": "Ingeniería Mecánica (Móstoles)",
+            "nota_corte_ordinaria": 11.378
+        },
+        {
+            "codigo": "0642",
+            "carrera": "Ingeniería Química (Móstoles)",
+            "nota_corte_ordinaria": 10.481
+        },
+        {
+            "codigo": "0866",
+            "carrera": "Inteligencia Artificial (Móstoles)",
+            "nota_corte_ordinaria": 10.428
+        },
+        {
+            "codigo": "0660",
+            "carrera": "Administración y Dirección de Empresas (Fuenlabrada)",
+            "nota_corte_ordinaria": 8.714
+        },
+        {
+            "codigo": "0661",
+            "carrera": "Administración y Dirección de Empresas (Inglés) (Vicalvaro)",
+            "nota_corte_ordinaria": 8.925
+        },
+        {
+            "codigo": "0662",
+            "carrera": "Administración y Direccion de Empresas (Móstoles)",
+            "nota_corte_ordinaria": 8.838
+        },
+        {
+            "codigo": "0663",
+            "carrera": "Administración y Dirección de Empresas (Vicalvaro)",
+            "nota_corte_ordinaria": 8.45
+        },
+        {
+            "codigo": "0664",
+            "carrera": "Administración y Dirección de Empresas (A Distancia) (Vicalvaro)",
+            "nota_corte_ordinaria": 8.14
+        },
+        {
+            "codigo": "0812",
+            "carrera": "Ciencia Política y Gestión Pública (Fuenlabrada)",
+            "nota_corte_ordinaria": 7.441
+        },
+        {
+            "codigo": "0665",
+            "carrera": "Ciencia Política y Gestión Pública (Vicalvaro)",
+            "nota_corte_ordinaria": 7.427
+        },
+        {
+            "codigo": "0813",
+            "carrera": "Ciencia, Gestión e Ingeniería de Servicios (Madrid)",
+            "nota_corte_ordinaria": 8.08
+        },
+        {
+            "codigo": "0845",
+            "carrera": "Ciencia, Gestión e Ingeniería de Servicios (Semipresencial) (Vicalvaro)",
+            "nota_corte_ordinaria": 7.2
+        },
+        {
+            "codigo": "0893",
+            "carrera": "Ciencias de la Actividad Física y del Deporte (Fuenlabrada)",
+            "nota_corte_ordinaria": 10.625
+        },
+        {
+            "codigo": "0667",
+            "carrera": "Comunicación Audiovisual (Fuenlabrada)",
+            "nota_corte_ordinaria": 8.56
+        },
+        {
+            "codigo": "0668",
+            "carrera": "Comunicación Audiovisual (Vicalvaro)",
+            "nota_corte_ordinaria": 9.115
+        },
+        {
+            "codigo": "0946",
+            "carrera": "Comunicación Digital (Fuenlabrada)",
+            "nota_corte_ordinaria": 9.138
+        },
+        {
+            "codigo": "0761",
+            "carrera": "Contabilidad y Finanzas (Fuenlabrada)",
+            "nota_corte_ordinaria": 8.3
+        },
+        {
+            "codigo": "0707",
+            "carrera": "Contabilidad y Finanzas (Móstoles)",
+            "nota_corte_ordinaria": 8.288
+        },
+        {
+            "codigo": "0895",
+            "carrera": "Contabilidad y Finanzas (A Distancia) (Vicálvaro)",
+            "nota_corte_ordinaria": 7.92
+        },
+        {
+            "codigo": "0702",
+            "carrera": "Contabilidad y Finanzas (Vicalvaro)",
+            "nota_corte_ordinaria": 9.039
+        },
+        {
+            "codigo": "0708",
+            "carrera": "Criminología (Alcorcón)",
+            "nota_corte_ordinaria": 10.087
+        },
+        {
+            "codigo": "0669",
+            "carrera": "Criminología (Vicalvaro)",
+            "nota_corte_ordinaria": 10.461
+        },
+        {
+            "codigo": "0670",
+            "carrera": "Derecho (Fuenlabrada)",
+            "nota_corte_ordinaria": 9.166
+        },
+        {
+            "codigo": "0671",
+            "carrera": "Derecho (Móstoles)",
+            "nota_corte_ordinaria": 8.889
+        },
+        {
+            "codigo": "0672",
+            "carrera": "Derecho (Vicalvaro)",
+            "nota_corte_ordinaria": 8.723
+        },
+        {
+            "codigo": "0673",
+            "carrera": "Derecho (Semipresencial) (Vicalvaro)",
+            "nota_corte_ordinaria": 8.111
+        },
+        {
+            "codigo": "0898",
+            "carrera": "Dirección y Gestión de Empresas en el Ámbito Digital (Vicálvaro)",
+            "nota_corte_ordinaria": 9.903
+        },
+        {
+            "codigo": "0674",
+            "carrera": "Economía (Fuenlabrada)",
+            "nota_corte_ordinaria": 9.078
+        },
+        {
+            "codigo": "0849",
+            "carrera": "Economía (Inglés) (Madrid)",
+            "nota_corte_ordinaria": 6.989
+        },
+        {
+            "codigo": "0899",
+            "carrera": "Economía (Móstoles)",
+            "nota_corte_ordinaria": 8.365
+        },
+        {
+            "codigo": "0675",
+            "carrera": "Economía (Vicalvaro)",
+            "nota_corte_ordinaria": 8.475
+        },
+        {
+            "codigo": "0900",
+            "carrera": "Economía Financiera y Actuarial (Móstoles)",
+            "nota_corte_ordinaria": 8.805
+        },
+        {
+            "codigo": "0676",
+            "carrera": "Economía Financiera y Actuarial (Vicalvaro)",
+            "nota_corte_ordinaria": 9.564
+        },
+        {
+            "codigo": "0678",
+            "carrera": "Educación Infantil (Fuenlabrada)",
+            "nota_corte_ordinaria": 9.14
+        },
+        {
+            "codigo": "0829",
+            "carrera": "Educación Infantil (Inglés) (Vicalvaro)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0679",
+            "carrera": "Educación Infantil (Móstoles)",
+            "nota_corte_ordinaria": 8.91
+        },
+        {
+            "codigo": "0680",
+            "carrera": "Educación Infantil (Semipresencial) (Vicalvaro)",
+            "nota_corte_ordinaria": 8.67
+        },
+        {
+            "codigo": "0681",
+            "carrera": "Educación Primaria y Educación Primaria mención Educación Física (Fuenlabrada)",
+            "nota_corte_ordinaria": 9.564
+        },
+        {
+            "codigo": "0682",
+            "carrera": "Educación Primaria y Educación Primaria mención Educación Musical, Educación Física, Ciencias y Matemáticas (Móstoles)",
+            "nota_corte_ordinaria": 9.75
+        },
+        {
+            "codigo": "0683",
+            "carrera": "Educación Primaria y Educación Primaria mención Lengua Extranjera Inglés (Vicalvaro)",
+            "nota_corte_ordinaria": 8.524
+        },
+        {
+            "codigo": "0705",
+            "carrera": "Educación Primaria (Semipresencial) (Vicalvaro)",
+            "nota_corte_ordinaria": 9.014
+        },
+        {
+            "codigo": "0949",
+            "carrera": "Gastronomía (Aranjuez)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0952",
+            "carrera": "Inteligencia, Seguridad y Diplomacia (Madrid-Quintana)",
+            "nota_corte_ordinaria": 7.303
+        },
+        {
+            "codigo": "0851",
+            "carrera": "Lengua de Signos Española y Comunidad Sorda (Alcorcón)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0852",
+            "carrera": "Lengua de Signos Española y Comunidad Sorda (Madrid-Quintana)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0808",
+            "carrera": "Marketing (Aranjuez)",
+            "nota_corte_ordinaria": 8.33
+        },
+        {
+            "codigo": "0686",
+            "carrera": "Marketing (Fuenlabrada)",
+            "nota_corte_ordinaria": 10.199
+        },
+        {
+            "codigo": "0762",
+            "carrera": "Marketing (Móstoles)",
+            "nota_corte_ordinaria": 9.728
+        },
+        {
+            "codigo": "0687",
+            "carrera": "Marketing (Inglés) (Vicalvaro)",
+            "nota_corte_ordinaria": 9.458
+        },
+        {
+            "codigo": "0688",
+            "carrera": "Marketing (Vicalvaro)",
+            "nota_corte_ordinaria": 10.624
+        },
+        {
+            "codigo": "0689",
+            "carrera": "Periodismo (Fuenlabrada)",
+            "nota_corte_ordinaria": 7.93
+        },
+        {
+            "codigo": "0691",
+            "carrera": "Periodismo (Semipresencial) (Fuenlabrada)",
+            "nota_corte_ordinaria": 7.0
+        },
+        {
+            "codigo": "0690",
+            "carrera": "Periodismo (Vicalvaro)",
+            "nota_corte_ordinaria": 7.352
+        },
+        {
+            "codigo": "0853",
+            "carrera": "Protocolo, Organización de Eventos y Com. Corporativa (Inglés) (Madrid)",
+            "nota_corte_ordinaria": 7.77
+        },
+        {
+            "codigo": "0831",
+            "carrera": "Protocolo, Organización de Eventos y Com. Corporativa (Vicalvaro)",
+            "nota_corte_ordinaria": 9.625
+        },
+        {
+            "codigo": "0692",
+            "carrera": "Publicidad y Relaciones Públicas (Fuenlabrada)",
+            "nota_corte_ordinaria": 10.311
+        },
+        {
+            "codigo": "0694",
+            "carrera": "Publicidad y Relaciones Públicas (Semipresencial) (Fuenlabrada)",
+            "nota_corte_ordinaria": 8.889
+        },
+        {
+            "codigo": "0693",
+            "carrera": "Publicidad y Relaciones Públicas (Vicalvaro)",
+            "nota_corte_ordinaria": 10.064
+        },
+        {
+            "codigo": "0916",
+            "carrera": "Relaciones Internacionales (Aranjuez)",
+            "nota_corte_ordinaria": 10.116
+        },
+        {
+            "codigo": "0760",
+            "carrera": "Relaciones Internacionales (Fuenlabrada)",
+            "nota_corte_ordinaria": 10.992
+        },
+        {
+            "codigo": "0759",
+            "carrera": "Relaciones Internacionales (Inglés) (Vicalvaro)",
+            "nota_corte_ordinaria": 10.632
+        },
+        {
+            "codigo": "0695",
+            "carrera": "Relaciones Laborales y Recursos Humanos (Alcorcón)",
+            "nota_corte_ordinaria": 7.54
+        },
+        {
+            "codigo": "0696",
+            "carrera": "Relaciones Laborales y Recursos Humanos (Vicalvaro)",
+            "nota_corte_ordinaria": 7.328
+        },
+        {
+            "codigo": "0832",
+            "carrera": "Trabajo Social (Alcorcón)",
+            "nota_corte_ordinaria": 8.71
+        },
+        {
+            "codigo": "0698",
+            "carrera": "Turismo (Fuenlabrada)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0699",
+            "carrera": "Turismo (Inglés) (Vicalvaro)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0700",
+            "carrera": "Turismo (Vicalvaro)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0854",
+            "carrera": "Turismo (Semipresencial) (Vicalvaro)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0872",
+            "carrera": "ADE (A distancia) (Vicálvaro) - Ciencia, Gestión e Ingeniería de Servicios (Presencial) (Madrid)",
+            "nota_corte_ordinaria": 8.2
+        },
+        {
+            "codigo": "0871",
+            "carrera": "ADE (Presencial) - Ciencia, Gestión e Ingeniería de Servicios (Semipresencial) (Vicalvaro)",
+            "nota_corte_ordinaria": 10.239
+        },
+        {
+            "codigo": "0887",
+            "carrera": "Administración y Dirección de Empresas - Derecho (Fuenlabrada)",
+            "nota_corte_ordinaria": 7.636
+        },
+        {
+            "codigo": "0873",
+            "carrera": "Administración y Dirección de Empresas - Derecho (Madrid)",
+            "nota_corte_ordinaria": 8.536
+        },
+        {
+            "codigo": "0710",
+            "carrera": "Administración y Dirección de Empresas - Derecho (Móstoles)",
+            "nota_corte_ordinaria": 8.461
+        },
+        {
+            "codigo": "0712",
+            "carrera": "Administración y Dirección de Empresas - Derecho (Vicalvaro)",
+            "nota_corte_ordinaria": 9.289
+        },
+        {
+            "codigo": "0890",
+            "carrera": "Administración y Dirección de Empresas - Marketing (Vicálvaro)",
+            "nota_corte_ordinaria": 12.014
+        },
+        {
+            "codigo": "0856",
+            "carrera": "Bellas Artes - Diseño Integral y Gestión de la Imagen (Aranjuez)",
+            "nota_corte_ordinaria": 11.685
+        },
+        {
+            "codigo": "0855",
+            "carrera": "Bellas Artes (Presencial) (Aranjuez) - Turismo (Semipresencial) (Vicalvaro)",
+            "nota_corte_ordinaria": 8.461
+        },
+        {
+            "codigo": "0820",
+            "carrera": "Ciencia Política y Gestión Pública - Derecho (Fuenlabrada)",
+            "nota_corte_ordinaria": 8.903
+        },
+        {
+            "codigo": "0714",
+            "carrera": "Ciencia Política y Gestión Pública - Derecho (Vicalvaro)",
+            "nota_corte_ordinaria": 9.937
+        },
+        {
+            "codigo": "0816",
+            "carrera": "Ciencia Política y Gestión Pública - Economía (Fuenlabrada)",
+            "nota_corte_ordinaria": 8.189
+        },
+        {
+            "codigo": "0739",
+            "carrera": "Ciencia Política y Gestión Pública - Economía (Vicalvaro)",
+            "nota_corte_ordinaria": 10.025
+        },
+        {
+            "codigo": "0817",
+            "carrera": "Ciencia Política y Gestión Pública - Periodismo (Fuenlabrada)",
+            "nota_corte_ordinaria": 8.775
+        },
+        {
+            "codigo": "0740",
+            "carrera": "Ciencia Política y Gestión Pública - Periodismo (Vicalvaro)",
+            "nota_corte_ordinaria": 10.164
+        },
+        {
+            "codigo": "0874",
+            "carrera": "Ciencia, Gestión e Ingeniería de Servicios (Semipresencial) - Marketing (Presencial) (Vicalvaro)",
+            "nota_corte_ordinaria": 10.161
+        },
+        {
+            "codigo": "0875",
+            "carrera": "Ciencia, Gestión e Ingeniería de Servicios (Semipresencial) - Turismo (Presencial) (Vicalvaro)",
+            "nota_corte_ordinaria": 6.431
+        },
+        {
+            "codigo": "0713",
+            "carrera": "Comunicación Audiovisual - ADE (Fuenlabrada)",
+            "nota_corte_ordinaria": 8.339
+        },
+        {
+            "codigo": "0742",
+            "carrera": "Contabilidad y Finanzas - Relaciones Laborales y RR.HH. (Vicalvaro)",
+            "nota_corte_ordinaria": 9.389
+        },
+        {
+            "codigo": "0743",
+            "carrera": "Criminología - Derecho (Vicalvaro)",
+            "nota_corte_ordinaria": 12.433
+        },
+        {
+            "codigo": "0869",
+            "carrera": "Criminología - Ingeniería Informática (Vicalvaro)",
+            "nota_corte_ordinaria": 10.867
+        },
+        {
+            "codigo": "0819",
+            "carrera": "Criminología - Psicología (Alcorcón)",
+            "nota_corte_ordinaria": 12.314
+        },
+        {
+            "codigo": "0876",
+            "carrera": "Criminología - Trabajo Social (Alcorcón)",
+            "nota_corte_ordinaria": 10.5
+        },
+        {
+            "codigo": "0715",
+            "carrera": "Derecho - Periodismo (Vicalvaro)",
+            "nota_corte_ordinaria": 11.378
+        },
+        {
+            "codigo": "0821",
+            "carrera": "Derecho - Relaciones Internacionales (Fuenlabrada)",
+            "nota_corte_ordinaria": 13.161
+        },
+        {
+            "codigo": "0944",
+            "carrera": "Derecho - Relaciones Internacionales (Inglés) (Vicálvaro)",
+            "nota_corte_ordinaria": 13.061
+        },
+        {
+            "codigo": "0716",
+            "carrera": "Derecho - Relaciones Laborales y Recursos Humanos (Vicalvaro)",
+            "nota_corte_ordinaria": 9.025
+        },
+        {
+            "codigo": "0877",
+            "carrera": "Derecho (Semipresencial) - Relac. Internac. (Inglés) (Presencial) (Vicalvaro)",
+            "nota_corte_ordinaria": 12.33
+        },
+        {
+            "codigo": "0826",
+            "carrera": "Diseño y Desarrollo de Videojuegos - Ing. de Computadores (Móstoles)",
+            "nota_corte_ordinaria": 11.102
+        },
+        {
+            "codigo": "0857",
+            "carrera": "Diseño y Gestión de Moda - Bellas Artes (Aranjuez)",
+            "nota_corte_ordinaria": 11.503
+        },
+        {
+            "codigo": "0858",
+            "carrera": "Diseño y Gestión de Moda - Diseño Integral y Gest de la Imagen (Aranjuez)",
+            "nota_corte_ordinaria": 10.69
+        },
+        {
+            "codigo": "0717",
+            "carrera": "Economía - Derecho (Fuenlabrada)",
+            "nota_corte_ordinaria": 10.475
+        },
+        {
+            "codigo": "0903",
+            "carrera": "Economía - Derecho (Móstoles)",
+            "nota_corte_ordinaria": 11.078
+        },
+        {
+            "codigo": "0718",
+            "carrera": "Economía - Derecho (Vicalvaro)",
+            "nota_corte_ordinaria": 11.728
+        },
+        {
+            "codigo": "0859",
+            "carrera": "Economía - Historia (Fuenlabrada)",
+            "nota_corte_ordinaria": 6.689
+        },
+        {
+            "codigo": "0904",
+            "carrera": "Economía - Matemáticas (Móstoles)",
+            "nota_corte_ordinaria": 12.489
+        },
+        {
+            "codigo": "0719",
+            "carrera": "Economía - Periodismo (Vicalvaro)",
+            "nota_corte_ordinaria": 10.403
+        },
+        {
+            "codigo": "0901",
+            "carrera": "Economía Financiera y Actuarial - ADE (Móstoles)",
+            "nota_corte_ordinaria": 11.153
+        },
+        {
+            "codigo": "0745",
+            "carrera": "Economía Financiera y Actuarial - ADE (Vicalvaro)",
+            "nota_corte_ordinaria": 11.287
+        },
+        {
+            "codigo": "0902",
+            "carrera": "Economía Financiera y Actuarial - Economía (Móstoles)",
+            "nota_corte_ordinaria": 10.036
+        },
+        {
+            "codigo": "0746",
+            "carrera": "Economía Financiera y Actuarial - Economía (Vicalvaro)",
+            "nota_corte_ordinaria": 10.378
+        },
+        {
+            "codigo": "0823",
+            "carrera": "Educación Infantil - Educación Primaria (Fuenlabrada)",
+            "nota_corte_ordinaria": 11.961
+        },
+        {
+            "codigo": "0905",
+            "carrera": "Filosofía - Ciencia Política y Gestión Pública (Fuenlabrada)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0906",
+            "carrera": "Filosofía - Economía (Fuenlabrada)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0861",
+            "carrera": "Fundamentos de la Arquitectura - Paisajismo (Fuenlabrada)",
+            "nota_corte_ordinaria": 10.185
+        },
+        {
+            "codigo": "0865",
+            "carrera": "Historia - Turismo (Fuenlabrada)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0947",
+            "carrera": "Historia (Presencial) (Fuenlabrada) - Turismo (Semipresencial) (Vicálvaro)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0747",
+            "carrera": "Ingeniería Ambiental - Ingeniería en Organización Industrial (Móstoles)",
+            "nota_corte_ordinaria": 9.903
+        },
+        {
+            "codigo": "0723",
+            "carrera": "Ingeniería de la Energía - Ingeniería Ambiental (Móstoles)",
+            "nota_corte_ordinaria": 10.373
+        },
+        {
+            "codigo": "0748",
+            "carrera": "Ingeniería de la Energia - Ingeniería en Organización Industrial (Móstoles)",
+            "nota_corte_ordinaria": 10.814
+        },
+        {
+            "codigo": "0724",
+            "carrera": "Ingeniería de Materiales - Ingeniería de la Energía (Móstoles)",
+            "nota_corte_ordinaria": 9.914
+        },
+        {
+            "codigo": "0749",
+            "carrera": "Ingeniería de Materiales - Ingeniería en Organización Industrial (Móstoles)",
+            "nota_corte_ordinaria": 10.478
+        },
+        {
+            "codigo": "0726",
+            "carrera": "Ingeniería del Software - Matemáticas (Móstoles)",
+            "nota_corte_ordinaria": 12.604
+        },
+        {
+            "codigo": "0779",
+            "carrera": "Ingeniería en Tecnología de Telecomunicación (Mención Sistema de Telecomunicación) - Ingeniería Aeroespacial (Mención Aeronavegación)",
+            "nota_corte_ordinaria": 12.089
+        },
+        {
+            "codigo": "0730",
+            "carrera": "Ingeniería Informática - ADE (Móstoles)",
+            "nota_corte_ordinaria": 11.678
+        },
+        {
+            "codigo": "0727",
+            "carrera": "Ingeniería Informática - Ingeniería de Computadores (Móstoles)",
+            "nota_corte_ordinaria": 9.849
+        },
+        {
+            "codigo": "0728",
+            "carrera": "Ingeniería Informática - Ingeniería del Software (Móstoles)",
+            "nota_corte_ordinaria": 11.323
+        },
+        {
+            "codigo": "0729",
+            "carrera": "Ingeniería Informática - Matemáticas (Móstoles)",
+            "nota_corte_ordinaria": 13.089
+        },
+        {
+            "codigo": "0870",
+            "carrera": "Ingeniería Informática (Presencial) - Administración y Dirección de Empresas (A distancia) (Vicalvaro)",
+            "nota_corte_ordinaria": 10.589
+        },
+        {
+            "codigo": "0756",
+            "carrera": "Ingeniería Química - Ingeniería en Organización Industrial (Móstoles)",
+            "nota_corte_ordinaria": 11.103
+        },
+        {
+            "codigo": "0732",
+            "carrera": "Ingeniería Química - Ingeniería Ambiental (Móstoles)",
+            "nota_corte_ordinaria": 10.439
+        },
+        {
+            "codigo": "0733",
+            "carrera": "Ingeniería Química - Ingeniería de la Energía (Móstoles)",
+            "nota_corte_ordinaria": 10.825
+        },
+        {
+            "codigo": "0734",
+            "carrera": "Periodismo - Comunicación Audiovisual (Fuenlabrada)",
+            "nota_corte_ordinaria": 8.936
+        },
+        {
+            "codigo": "0735",
+            "carrera": "Periodismo - Comunicación Audiovisual (Vicalvaro)",
+            "nota_corte_ordinaria": 8.553
+        },
+        {
+            "codigo": "0736",
+            "carrera": "Publicidad y Relaciones Públicas - ADE (Fuenlabrada)",
+            "nota_corte_ordinaria": 10.046
+        },
+        {
+            "codigo": "0773",
+            "carrera": "Publicidad y Relaciones Públicas - Marketing (Fuenlabrada)",
+            "nota_corte_ordinaria": 12.329
+        },
+        {
+            "codigo": "0825",
+            "carrera": "Relaciones Internacionales - Ciencia Política y Gestión Pública (Fuenlabrada)",
+            "nota_corte_ordinaria": 12.267
+        },
+        {
+            "codigo": "0778",
+            "carrera": "Relaciones Internacionales - Economia (Fuenlabrada)",
+            "nota_corte_ordinaria": 11.492
+        },
+        {
+            "codigo": "0774",
+            "carrera": "Relaciones Internacionales - Periodismo (Fuenlabrada)",
+            "nota_corte_ordinaria": 12.216
+        },
+        {
+            "codigo": "0836",
+            "carrera": "Relaciones Internacionales (inglés) - Protocolo, Organización de Eventos y Comunicación Corporativa (Vicalvaro)",
+            "nota_corte_ordinaria": 12.369
+        },
+        {
+            "codigo": "0881",
+            "carrera": "Relaciones Laborales y RR.HH - Trabajo Social (Alcorcón)",
+            "nota_corte_ordinaria": 8.76
+        },
+        {
+            "codigo": "0737",
+            "carrera": "Turismo - Administración y Dirección de Empresas (Fuenlabrada)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0738",
+            "carrera": "Turismo - Administración y Dirección de Empresas (Vicalvaro)",
+            "nota_corte_ordinaria": 7.653
+        },
+        {
+            "codigo": "0936",
+            "carrera": "Turismo - Marketing (Vicalvaro)",
+            "nota_corte_ordinaria": 10.177
+        },
+        {
+            "codigo": "0948",
+            "carrera": "Turismo (Semipresencial) - Marketing (Presencial) (Vicálvaro)",
+            "nota_corte_ordinaria": 9.289
+        },
+        {
+            "codigo": "0750",
+            "carrera": "Administración y Dirección de Empresas",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0888",
+            "carrera": "Administración y Dirección de Empresas - Derecho",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0795",
+            "carrera": "Criminología",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0889",
+            "carrera": "Criminología - Derecho",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0846",
+            "carrera": "Derecho",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0752",
+            "carrera": "Marketing",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0790",
+            "carrera": "Artes Escénicas - Interpretación Audiovisual",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0929",
+            "carrera": "Artes Escénicas e Interpretación Audiovisual (inglés)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0792",
+            "carrera": "Bellas Artes",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0793",
+            "carrera": "Cinematografía",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0945",
+            "carrera": "Cinematografía (inglés)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0937",
+            "carrera": "Composición Musical",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0930",
+            "carrera": "Composición Musical (inglés)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0939",
+            "carrera": "Fotografía y Creación Audiovisual",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0796",
+            "carrera": "Administración y Dirección de Empresas",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0839",
+            "carrera": "Administración y Dirección de Empresas",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0840",
+            "carrera": "Administración y Dirección de Empresas (A distancia)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0841",
+            "carrera": "Derecho",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0842",
+            "carrera": "Derecho (Semipresencial)",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0931",
+            "carrera": "Marketing",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0924",
+            "carrera": "Protocolo, Organización de Eventos y Comunicación Corporativa",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0942",
+            "carrera": "Administración y Dirección de Empresas",
+            "nota_corte_ordinaria": 5.0
+        },
+        {
+            "codigo": "0943",
+            "carrera": "Administración y Dirección de Empresas (A distancia)",
+            "nota_corte_ordinaria": 5.0
+        }
+    ]
+}
