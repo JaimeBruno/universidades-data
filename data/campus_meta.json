@@ -21,6 +21,55 @@
           "direccion": "Ctra. de Húmera, s/n, 28223 Pozuelo de Alarcón",
           "lat": 40.4284,
           "lng": -3.8065
+        },
+        {
+          "id": "ucm_comercio_turismo",
+          "nombre": "Facultad de Comercio y Turismo",
+          "direccion": "Avda. Islas Filipinas, 3, 28003 Madrid",
+          "lat": 40.4353,
+          "lng": -3.7077
+        },
+        {
+          "id": "ucm_relaciones_laborales",
+          "nombre": "Escuela de Relaciones Laborales",
+          "direccion": "C/ San Bernardo, 49, 28015 Madrid",
+          "lat": 40.4270,
+          "lng": -3.7069
+        },
+        {
+          "id": "ucm_optica",
+          "nombre": "Facultad de Óptica y Optometría",
+          "direccion": "Avda. Arcos de Jalón, 118, 28037 Madrid",
+          "lat": 40.4018,
+          "lng": -3.6298
+        },
+        {
+          "id": "ucm_cisneros",
+          "nombre": "CES Cardenal Cisneros (adscrito)",
+          "direccion": "C/ General Díaz Porlier, 58, 28006 Madrid",
+          "lat": 40.4314,
+          "lng": -3.6749
+        },
+        {
+          "id": "ucm_don_bosco",
+          "nombre": "CES Don Bosco (adscrito)",
+          "direccion": "C/ María Auxiliadora, 9, 28040 Madrid",
+          "lat": 40.4436,
+          "lng": -3.7249
+        },
+        {
+          "id": "ucm_villanueva",
+          "nombre": "CES Villanueva (adscrito)",
+          "direccion": "C/ Costa Brava, 2, 28034 Madrid",
+          "lat": 40.4830,
+          "lng": -3.6814
+        },
+        {
+          "id": "ucm_escuni",
+          "nombre": "EU Magisterio ESCUNI (adscrito)",
+          "direccion": "C/ Bravo Murillo, 38, 28015 Madrid",
+          "lat": 40.4294,
+          "lng": -3.7010
         }
       ]
     },
