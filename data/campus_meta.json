@@ -36,6 +36,27 @@
           "direccion": "C/ Francisco Tomás y Valiente, 1, 28049 Madrid",
           "lat": 40.5430,
           "lng": -3.6922
+        },
+        {
+          "id": "uam_lasalle",
+          "nombre": "Centro Universitario La Salle (adscrito)",
+          "direccion": "C/ La Salle, 10, 28023 Madrid",
+          "lat": 40.4662,
+          "lng": -3.7820
+        },
+        {
+          "id": "uam_jimenez_diaz",
+          "nombre": "EU Enfermería Fundación Jiménez Díaz (adscrito)",
+          "direccion": "Avda. de los Reyes Católicos, 2, 28040 Madrid",
+          "lat": 40.4388,
+          "lng": -3.7252
+        },
+        {
+          "id": "uam_villalba",
+          "nombre": "EU Enfermería Campus Villalba (adscrito)",
+          "direccion": "Ctra. Alpedrete a Moralzarzal M608 km41, 28400 Collado Villalba",
+          "lat": 40.6287,
+          "lng": -4.0048
         }
       ]
     },
