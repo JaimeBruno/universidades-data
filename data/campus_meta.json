@@ -1,0 +1,173 @@
+{
+  "version": "1.0",
+  "curso_activo": "2025/2026",
+  "universidades": [
+    {
+      "id": "ucm",
+      "nombre": "Universidad Complutense de Madrid",
+      "siglas": "UCM",
+      "color": "#1565C0",
+      "campus": [
+        {
+          "id": "ucm_moncloa",
+          "nombre": "Campus Moncloa (Ciudad Universitaria)",
+          "direccion": "Avda. Séneca, 2, 28040 Madrid",
+          "lat": 40.4524,
+          "lng": -3.7272
+        },
+        {
+          "id": "ucm_somosaguas",
+          "nombre": "Campus Somosaguas",
+          "direccion": "Ctra. de Húmera, s/n, 28223 Pozuelo de Alarcón",
+          "lat": 40.4284,
+          "lng": -3.8065
+        }
+      ]
+    },
+    {
+      "id": "uam",
+      "nombre": "Universidad Autónoma de Madrid",
+      "siglas": "UAM",
+      "color": "#2E7D32",
+      "campus": [
+        {
+          "id": "uam_cantoblanco",
+          "nombre": "Campus de Cantoblanco",
+          "direccion": "C/ Francisco Tomás y Valiente, 1, 28049 Madrid",
+          "lat": 40.5430,
+          "lng": -3.6922
+        }
+      ]
+    },
+    {
+      "id": "uc3m",
+      "nombre": "Universidad Carlos III de Madrid",
+      "siglas": "UC3M",
+      "color": "#0277BD",
+      "campus": [
+        {
+          "id": "uc3m_getafe",
+          "nombre": "Campus de Getafe",
+          "direccion": "C/ Madrid, 126, 28903 Getafe",
+          "lat": 40.3082,
+          "lng": -3.7328
+        },
+        {
+          "id": "uc3m_leganes",
+          "nombre": "Campus de Leganés",
+          "direccion": "Avda. de la Universidad, 30, 28911 Leganés",
+          "lat": 40.3317,
+          "lng": -3.7649
+        },
+        {
+          "id": "uc3m_colmenarejo",
+          "nombre": "Campus de Colmenarejo",
+          "direccion": "C/ Madrid, 135, 28270 Colmenarejo",
+          "lat": 40.5614,
+          "lng": -4.0192
+        }
+      ]
+    },
+    {
+      "id": "upm",
+      "nombre": "Universidad Politécnica de Madrid",
+      "siglas": "UPM",
+      "color": "#E65100",
+      "campus": [
+        {
+          "id": "upm_moncloa",
+          "nombre": "Campus de Moncloa (Ciudad Universitaria)",
+          "direccion": "C/ Ramiro de Maeztu, 7, 28040 Madrid",
+          "lat": 40.4512,
+          "lng": -3.7251
+        },
+        {
+          "id": "upm_sur",
+          "nombre": "Campus Sur",
+          "direccion": "C/ Alan Turing, s/n, 28031 Madrid",
+          "lat": 40.3918,
+          "lng": -3.7044
+        },
+        {
+          "id": "upm_montegancedo",
+          "nombre": "Campus de Montegancedo",
+          "direccion": "Campus de Montegancedo, 28660 Boadilla del Monte",
+          "lat": 40.4090,
+          "lng": -3.8373
+        }
+      ]
+    },
+    {
+      "id": "urjc",
+      "nombre": "Universidad Rey Juan Carlos",
+      "siglas": "URJC",
+      "color": "#6A1B9A",
+      "campus": [
+        {
+          "id": "urjc_mostoles",
+          "nombre": "Campus de Móstoles",
+          "direccion": "C/ Tulipán, s/n, 28933 Móstoles",
+          "lat": 40.3359,
+          "lng": -3.8732
+        },
+        {
+          "id": "urjc_alcorcon",
+          "nombre": "Campus de Alcorcón",
+          "direccion": "Avda. de los Reyes, 5, 28942 Alcorcón",
+          "lat": 40.3487,
+          "lng": -3.8483
+        },
+        {
+          "id": "urjc_fuenlabrada",
+          "nombre": "Campus de Fuenlabrada",
+          "direccion": "Camino del Molino, 5, 28942 Fuenlabrada",
+          "lat": 40.2815,
+          "lng": -3.7988
+        },
+        {
+          "id": "urjc_vicalvaro",
+          "nombre": "Campus de Vicálvaro (Madrid)",
+          "direccion": "Paseo de los Artilleros, s/n, 28032 Madrid",
+          "lat": 40.4035,
+          "lng": -3.6338
+        },
+        {
+          "id": "urjc_aranjuez",
+          "nombre": "Campus de Aranjuez",
+          "direccion": "C/ del Capitán Angosto Gómez Castrillón, 91, 28300 Aranjuez",
+          "lat": 40.0371,
+          "lng": -3.6082
+        }
+      ]
+    },
+    {
+      "id": "uah",
+      "nombre": "Universidad de Alcalá",
+      "siglas": "UAH",
+      "color": "#B71C1C",
+      "campus": [
+        {
+          "id": "uah_alcala_historico",
+          "nombre": "Campus Histórico (Alcalá de Henares)",
+          "direccion": "Plaza de San Diego, s/n, 28801 Alcalá de Henares",
+          "lat": 40.4818,
+          "lng": -3.3573
+        },
+        {
+          "id": "uah_alcala_cientifico",
+          "nombre": "Campus Científico-Tecnológico (Alcalá de Henares)",
+          "direccion": "Ctra. Madrid-Barcelona, km 33.6, 28871 Alcalá de Henares",
+          "lat": 40.4950,
+          "lng": -3.3634
+        },
+        {
+          "id": "uah_guadalajara",
+          "nombre": "Campus de Guadalajara",
+          "direccion": "C/ Trinidad, 1, 19001 Guadalajara",
+          "lat": 40.6289,
+          "lng": -3.1622
+        }
+      ]
+    }
+  ]
+}
