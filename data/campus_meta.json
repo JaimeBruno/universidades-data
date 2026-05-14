@@ -164,6 +164,34 @@
           "direccion": "Campus de Montegancedo, 28660 Boadilla del Monte",
           "lat": 40.4090,
           "lng": -3.8373
+        },
+        {
+          "id": "upm_industriales",
+          "nombre": "ETSII - Escuela de Ingenieros Industriales",
+          "direccion": "C/ José Gutiérrez Abascal, 2, 28006 Madrid",
+          "lat": 40.4437,
+          "lng": -3.6940
+        },
+        {
+          "id": "upm_minas",
+          "nombre": "ETSEM - Escuela de Minas y Energía",
+          "direccion": "C/ Ríos Rosas, 21, 28003 Madrid",
+          "lat": 40.4397,
+          "lng": -3.6995
+        },
+        {
+          "id": "upm_etsidi",
+          "nombre": "ETSIDI - Escuela de Ingeniería y Diseño Industrial",
+          "direccion": "Ronda de Valencia, 3, 28012 Madrid",
+          "lat": 40.4082,
+          "lng": -3.6987
+        },
+        {
+          "id": "upm_retiro",
+          "nombre": "ETSICCP - Edificio Retiro (Caminos)",
+          "direccion": "C/ Alfonso XII, 3-5, 28014 Madrid",
+          "lat": 40.4072,
+          "lng": -3.6862
         }
       ]
     },
