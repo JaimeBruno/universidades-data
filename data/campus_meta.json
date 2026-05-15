@@ -6,7 +6,7 @@
       "id": "ucm",
       "nombre": "Universidad Complutense de Madrid",
       "siglas": "UCM",
-      "color": "#1565C0",
+      "color": "#7AB3DF",
       "campus": [
         {
           "id": "ucm_moncloa",
@@ -77,7 +77,7 @@
       "id": "uam",
       "nombre": "Universidad Autónoma de Madrid",
       "siglas": "UAM",
-      "color": "#2E7D32",
+      "color": "#7DC4A0",
       "campus": [
         {
           "id": "uam_cantoblanco",
@@ -113,7 +113,7 @@
       "id": "uc3m",
       "nombre": "Universidad Carlos III de Madrid",
       "siglas": "UC3M",
-      "color": "#0277BD",
+      "color": "#97A8D6",
       "campus": [
         {
           "id": "uc3m_getafe",
@@ -142,7 +142,7 @@
       "id": "upm",
       "nombre": "Universidad Politécnica de Madrid",
       "siglas": "UPM",
-      "color": "#E65100",
+      "color": "#E0A08A",
       "campus": [
         {
           "id": "upm_moncloa",
@@ -199,7 +199,7 @@
       "id": "urjc",
       "nombre": "Universidad Rey Juan Carlos",
       "siglas": "URJC",
-      "color": "#6A1B9A",
+      "color": "#B29AD4",
       "campus": [
         {
           "id": "urjc_mostoles",
@@ -242,7 +242,7 @@
       "id": "uah",
       "nombre": "Universidad de Alcalá",
       "siglas": "UAH",
-      "color": "#B71C1C",
+      "color": "#D99DB5",
       "campus": [
         {
           "id": "uah_alcala_historico",
