@@ -4,75 +4,1033 @@
   "curso": "2025/2026",
   "total_carreras": 60,
   "grados": [
-    {"codigo": "0300", "carrera": "Fundamentos de la Arquitectura",                                                                          "nota_corte_ordinaria": 11.091, "campus_id": "upm_moncloa"},
-    {"codigo": "0301", "carrera": "Ingeniería Aeroespacial",                                                                                 "nota_corte_ordinaria": 12.484, "campus_id": "upm_moncloa"},
-    {"codigo": "0302", "carrera": "Ingeniería Agrícola",                                                                                     "nota_corte_ordinaria": 8.173,  "campus_id": "upm_moncloa"},
-    {"codigo": "0303", "carrera": "Ingeniería Agroambiental",                                                                                "nota_corte_ordinaria": 5.75,   "campus_id": "upm_moncloa"},
-    {"codigo": "0304", "carrera": "Ingeniería Alimentaria",                                                                                  "nota_corte_ordinaria": 7.015,  "campus_id": "upm_moncloa"},
-    {"codigo": "0306", "carrera": "Ingeniería Civil y Territorial (Moncloa)",                                                                "nota_corte_ordinaria": 10.053, "campus_id": "upm_moncloa"},
-    {"codigo": "0307", "carrera": "Ingeniería de Computadores",                                                                              "nota_corte_ordinaria": 9.311,  "campus_id": "upm_montegancedo"},
-    {"codigo": "0308", "carrera": "Edificación",                                                                                             "nota_corte_ordinaria": 7.637,  "campus_id": "upm_moncloa"},
-    {"codigo": "0309", "carrera": "Ingeniería de la Energía",                                                                                "nota_corte_ordinaria": 11.039, "campus_id": "upm_industriales"},
-    {"codigo": "0310", "carrera": "Ingeniería de Materiales",                                                                                "nota_corte_ordinaria": 9.561,  "campus_id": "upm_industriales"},
-    {"codigo": "0311", "carrera": "Ingeniería de Sistemas de Telecomunicación",                                                              "nota_corte_ordinaria": 9.186,  "campus_id": "upm_moncloa"},
-    {"codigo": "0312", "carrera": "Ingeniería de Sonido e Imagen",                                                                           "nota_corte_ordinaria": 8.066,  "campus_id": "upm_moncloa"},
-    {"codigo": "0313", "carrera": "Ingeniería de Tecnologías y Servicios de Telecomunicación",                                               "nota_corte_ordinaria": 9.408,  "campus_id": "upm_moncloa"},
-    {"codigo": "0314", "carrera": "Ingeniería del Medio Natural",                                                                            "nota_corte_ordinaria": 5.744,  "campus_id": "upm_moncloa"},
-    {"codigo": "0315", "carrera": "Ingeniería del Software",                                                                                 "nota_corte_ordinaria": 10.036, "campus_id": "upm_montegancedo"},
-    {"codigo": "0316", "carrera": "Ingeniería Eléctrica",                                                                                    "nota_corte_ordinaria": 10.45,  "campus_id": "upm_industriales"},
-    {"codigo": "0317", "carrera": "Ingeniería Electrónica de Comunicaciones",                                                                "nota_corte_ordinaria": 8.361,  "campus_id": "upm_moncloa"},
-    {"codigo": "0318", "carrera": "Ingeniería Electrónica Industrial y Automática",                                                          "nota_corte_ordinaria": 10.67,  "campus_id": "upm_industriales"},
-    {"codigo": "0319", "carrera": "Ingeniería en Diseño Industrial y Desarrollo de Producto",                                                "nota_corte_ordinaria": 12.461, "campus_id": "upm_etsidi"},
-    {"codigo": "0320", "carrera": "Ingeniería en Tecnología Minera / Ing. Geológica / Ing. Mineralúrgica y Metalúrgica de las Materias Primas / Ing. en Recursos Energéticos, Combustibles y Explosivos", "nota_corte_ordinaria": 8.39, "campus_id": "upm_minas"},
-    {"codigo": "0321", "carrera": "Ingeniería en Tecnologías Industriales",                                                                  "nota_corte_ordinaria": 12.114, "campus_id": "upm_industriales"},
-    {"codigo": "0322", "carrera": "Ingeniería Forestal",                                                                                     "nota_corte_ordinaria": 5.404,  "campus_id": "upm_moncloa"},
-    {"codigo": "0323", "carrera": "Ingeniería Geomática",                                                                                    "nota_corte_ordinaria": 6.686,  "campus_id": "upm_sur"},
-    {"codigo": "0324", "carrera": "Ingeniería Informática",                                                                                  "nota_corte_ordinaria": 10.175, "campus_id": "upm_montegancedo"},
-    {"codigo": "0325", "carrera": "Arquitectura Naval / Ingeniería Marítima",                                                                "nota_corte_ordinaria": 10.467, "campus_id": "upm_moncloa"},
-    {"codigo": "0326", "carrera": "Ingeniería Mecánica",                                                                                     "nota_corte_ordinaria": 11.867, "campus_id": "upm_industriales"},
-    {"codigo": "0327", "carrera": "Ingeniería Química (Castellana)",                                                                         "nota_corte_ordinaria": 11.707, "campus_id": "upm_industriales"},
-    {"codigo": "0328", "carrera": "Ingeniería Química (Embajadores)",                                                                        "nota_corte_ordinaria": 10.883, "campus_id": "upm_etsidi"},
-    {"codigo": "0329", "carrera": "Ingeniería Telemática",                                                                                   "nota_corte_ordinaria": 8.54,   "campus_id": "upm_sur"},
-    {"codigo": "0330", "carrera": "Ciencias Agrarias y Bioeconomía",                                                                         "nota_corte_ordinaria": 6.851,  "campus_id": "upm_moncloa"},
-    {"codigo": "0331", "carrera": "Matemáticas e Informática",                                                                               "nota_corte_ordinaria": 11.507, "campus_id": "upm_montegancedo"},
-    {"codigo": "0332", "carrera": "Tecnologías para la Sociedad de la Información",                                                          "nota_corte_ordinaria": 8.19,   "campus_id": "upm_sur"},
-    {"codigo": "0333", "carrera": "Biotecnología",                                                                                           "nota_corte_ordinaria": 12.728, "campus_id": "upm_moncloa"},
-    {"codigo": "0334", "carrera": "Ingeniería Biomédica",                                                                                    "nota_corte_ordinaria": 12.553, "campus_id": "upm_moncloa"},
-    {"codigo": "0335", "carrera": "Sistemas de Información",                                                                                 "nota_corte_ordinaria": 9.08,   "campus_id": "upm_sur"},
-    {"codigo": "0336", "carrera": "Ingeniería de Organización",                                                                              "nota_corte_ordinaria": 12.636, "campus_id": "upm_industriales"},
-    {"codigo": "0337", "carrera": "Ingeniería en Tecnologías Ambientales",                                                                   "nota_corte_ordinaria": 6.464,  "campus_id": "upm_moncloa"},
-    {"codigo": "0338", "carrera": "Gestión y Operaciones del Transporte Aéreo",                                                              "nota_corte_ordinaria": 11.478, "campus_id": "upm_moncloa"},
-    {"codigo": "0339", "carrera": "Ingeniería de las Tecnologías de la Información Geoespacial",                                             "nota_corte_ordinaria": 7.31,   "campus_id": "upm_sur"},
-    {"codigo": "0340", "carrera": "Diseño de Moda",                                                                                          "nota_corte_ordinaria": 5.0,    "campus_id": "upm_etsidi"},
-    {"codigo": "0341", "carrera": "Ingeniería y Sistemas de datos (Campus Moncloa)",                                                         "nota_corte_ordinaria": 11.128, "campus_id": "upm_moncloa"},
-    {"codigo": "0343", "carrera": "Ciencia de Datos e Inteligencia Artificial (Campus de Montegancedo)",                                     "nota_corte_ordinaria": 11.899, "campus_id": "upm_montegancedo"},
-    {"codigo": "0344", "carrera": "Ciencia de Datos e Inteligencia Artificial (Campus Sur)",                                                 "nota_corte_ordinaria": 12.139, "campus_id": "upm_sur"},
-    {"codigo": "0345", "carrera": "Matemáticas",                                                                                             "nota_corte_ordinaria": 12.058, "campus_id": "upm_montegancedo"},
-    {"codigo": "0346", "carrera": "Ingeniería Civil y Territorial (Retiro)",                                                                 "nota_corte_ordinaria": 9.675,  "campus_id": "upm_retiro"},
-    {"codigo": "0347", "carrera": "Ingeniería en Tecnologías Aeroespaciales",                                                                "nota_corte_ordinaria": 12.363, "campus_id": "upm_moncloa"},
-    {"codigo": "0350", "carrera": "Ciencias de la Actividad Física y del Deporte (INEF)",                                                    "nota_corte_ordinaria": 8.925,  "campus_id": "upm_moncloa"},
-    {"codigo": "0359", "carrera": "Ingeniería y Sistemas de Datos e Ingeniería Telemática (Campus Sur)",                                     "nota_corte_ordinaria": 8.828,  "campus_id": "upm_sur"},
-    {"codigo": "0360", "carrera": "Ingeniería en Diseño Industrial y Desarrollo de Producto - Ingeniería Mecánica",                          "nota_corte_ordinaria": 12.878, "campus_id": "upm_etsidi"},
-    {"codigo": "0361", "carrera": "Edificación - Administración y Dirección de Empresas",                                                    "nota_corte_ordinaria": 8.115,  "campus_id": "upm_moncloa"},
-    {"codigo": "0362", "carrera": "Ingeniería Eléctrica - Ingeniería Electrónica Industrial y Automática",                                   "nota_corte_ordinaria": 11.361, "campus_id": "upm_industriales"},
-    {"codigo": "0365", "carrera": "Ingeniería Informática - Administración y Dirección de Empresas",                                         "nota_corte_ordinaria": 11.589, "campus_id": "upm_montegancedo"},
-    {"codigo": "0366", "carrera": "Ingeniería Civil y Territorial - Administración y Dirección de Empresas",                                 "nota_corte_ordinaria": 10.741, "campus_id": "upm_moncloa"},
-    {"codigo": "0367", "carrera": "Ingeniería Electrónica de Comunicaciones - Ingeniería Telemática",                                        "nota_corte_ordinaria": 8.214,  "campus_id": "upm_moncloa"},
-    {"codigo": "0368", "carrera": "Diseño de Moda (UPM) y Comercio (UCM)",                                                                   "nota_corte_ordinaria": 5.0,    "campus_id": "upm_etsidi"},
-    {"codigo": "0369", "carrera": "Ingeniería Geomática e Ingeniería de las Tecnologías de la Información Geoespacial (Campus Sur)",         "nota_corte_ordinaria": 7.177,  "campus_id": "upm_sur"},
-    {"codigo": "0371", "carrera": "Ingeniero/a de Montes (PARS)",                                                                            "nota_corte_ordinaria": 8.739,  "campus_id": "upm_moncloa"},
-    {"codigo": "0372", "carrera": "Ingeniero/a del Software (PARS)",                                                                         "nota_corte_ordinaria": 11.533, "campus_id": "upm_montegancedo"},
-    {"codigo": "0373", "carrera": "Ingeniero/a Sistemas Informáticos Distribuidos y Embebidos (PARS)",                                       "nota_corte_ordinaria": 8.728,  "campus_id": "upm_sur"},
-    {"codigo": "0375", "carrera": "Ingeniero/a de Caminos, Canales y Puertos (PARS)",                                                        "nota_corte_ordinaria": 11.961, "campus_id": "upm_moncloa"},
-    {"codigo": "0376", "carrera": "Ingeniero/a Informática (PARS)",                                                                          "nota_corte_ordinaria": 11.425, "campus_id": "upm_montegancedo"},
-    {"codigo": "0377", "carrera": "Ingeniero/a de Telecomunicación (PARS)",                                                                  "nota_corte_ordinaria": 11.686, "campus_id": "upm_moncloa"},
-    {"codigo": "0378", "carrera": "Ingeniero/a Agrónomo/a (PARS)",                                                                          "nota_corte_ordinaria": 10.814, "campus_id": "upm_moncloa"},
-    {"codigo": "0380", "carrera": "Ingeniero/a de Minas (PARS)",                                                                             "nota_corte_ordinaria": 10.388, "campus_id": "upm_minas"},
-    {"codigo": "0381", "carrera": "Arquitecto/a (PARS)",                                                                                     "nota_corte_ordinaria": 13.089, "campus_id": "upm_moncloa"},
-    {"codigo": "0385", "carrera": "Ingeniero/a de Materiales (PARS)",                                                                        "nota_corte_ordinaria": 10.728, "campus_id": "upm_industriales"},
-    {"codigo": "0386", "carrera": "Ingeniero/a Industrial (PARS)",                                                                           "nota_corte_ordinaria": 13.525, "campus_id": "upm_industriales"},
-    {"codigo": "0387", "carrera": "Ingeniero/a Naval y Oceánica (PARS)",                                                                     "nota_corte_ordinaria": 11.978, "campus_id": "upm_moncloa"},
-    {"codigo": "0388", "carrera": "Ingeniero/a Biomédico/a (PARS)",                                                                          "nota_corte_ordinaria": 13.15,  "campus_id": "upm_moncloa"},
-    {"codigo": "0389", "carrera": "Ingeniero/a Aeronáutico/a (PARS)",                                                                        "nota_corte_ordinaria": 13.411, "campus_id": "upm_moncloa"}
+    {
+      "codigo": "0300",
+      "carrera": "Fundamentos de la Arquitectura",
+      "nota_corte_ordinaria": 11.091,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Dibujo Técnico II": 0.2,
+        "Geografía": 0.1,
+        "Historia del Arte": 0.1,
+        "Química": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0301",
+      "carrera": "Ingeniería Aeroespacial",
+      "nota_corte_ordinaria": 12.484,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Química": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0302",
+      "carrera": "Ingeniería Agrícola",
+      "nota_corte_ordinaria": 8.173,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Biología": 0.2,
+        "Física": 0.2,
+        "Química": 0.2,
+        "Ciencias Generales": 0.1,
+        "Tecnología e Ingeniería II": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0303",
+      "carrera": "Ingeniería Agroambiental",
+      "nota_corte_ordinaria": 5.75,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Biología": 0.2,
+        "Física": 0.2,
+        "Química": 0.2,
+        "Ciencias Generales": 0.1,
+        "Tecnología e Ingeniería II": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0304",
+      "carrera": "Ingeniería Alimentaria",
+      "nota_corte_ordinaria": 7.015,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Biología": 0.2,
+        "Física": 0.2,
+        "Química": 0.2,
+        "Ciencias Generales": 0.2,
+        "Tecnología e Ingeniería II": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0306",
+      "carrera": "Ingeniería Civil y Territorial (Moncloa)",
+      "nota_corte_ordinaria": 10.053,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Dibujo Técnico II": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Química": 0.1,
+        "Geología y Ciencias Ambientales": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0307",
+      "carrera": "Ingeniería de Computadores",
+      "nota_corte_ordinaria": 9.311,
+      "campus_id": "upm_montegancedo",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Química": 0.1,
+        "Empresa y Diseño de Modelos de Negocio": 0.1
+      }
+    },
+    {
+      "codigo": "0308",
+      "carrera": "Edificación",
+      "nota_corte_ordinaria": 7.637,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Dibujo Técnico II": 0.2,
+        "Geografía": 0.1,
+        "Historia del Arte": 0.1,
+        "Química": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0309",
+      "carrera": "Ingeniería de la Energía",
+      "nota_corte_ordinaria": 11.039,
+      "campus_id": "upm_industriales",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Química": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0310",
+      "carrera": "Ingeniería de Materiales",
+      "nota_corte_ordinaria": 9.561,
+      "campus_id": "upm_industriales",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Química": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0311",
+      "carrera": "Ingeniería de Sistemas de Telecomunicación",
+      "nota_corte_ordinaria": 9.186,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Química": 0.1,
+        "Empresa y Diseño de Modelos de Negocio": 0.1
+      }
+    },
+    {
+      "codigo": "0312",
+      "carrera": "Ingeniería de Sonido e Imagen",
+      "nota_corte_ordinaria": 8.066,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Química": 0.1,
+        "Empresa y Diseño de Modelos de Negocio": 0.1
+      }
+    },
+    {
+      "codigo": "0313",
+      "carrera": "Ingeniería de Tecnologías y Servicios de Telecomunicación",
+      "nota_corte_ordinaria": 9.408,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Química": 0.1,
+        "Empresa y Diseño de Modelos de Negocio": 0.1
+      }
+    },
+    {
+      "codigo": "0314",
+      "carrera": "Ingeniería del Medio Natural",
+      "nota_corte_ordinaria": 5.744,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Biología": 0.2,
+        "Física": 0.2,
+        "Química": 0.2,
+        "Geografía": 0.1,
+        "Tecnología e Ingeniería II": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0315",
+      "carrera": "Ingeniería del Software",
+      "nota_corte_ordinaria": 10.036,
+      "campus_id": "upm_montegancedo",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Química": 0.1,
+        "Empresa y Diseño de Modelos de Negocio": 0.1
+      }
+    },
+    {
+      "codigo": "0316",
+      "carrera": "Ingeniería Eléctrica",
+      "nota_corte_ordinaria": 10.45,
+      "campus_id": "upm_industriales",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Dibujo Técnico II": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Química": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0317",
+      "carrera": "Ingeniería Electrónica de Comunicaciones",
+      "nota_corte_ordinaria": 8.361,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Química": 0.1,
+        "Empresa y Diseño de Modelos de Negocio": 0.1
+      }
+    },
+    {
+      "codigo": "0318",
+      "carrera": "Ingeniería Electrónica Industrial y Automática",
+      "nota_corte_ordinaria": 10.67,
+      "campus_id": "upm_industriales",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Dibujo Técnico II": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Química": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0319",
+      "carrera": "Ingeniería en Diseño Industrial y Desarrollo de Producto",
+      "nota_corte_ordinaria": 12.461,
+      "campus_id": "upm_etsidi",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Dibujo Técnico II": 0.2,
+        "Diseño": 0.2,
+        "Historia del Arte": 0.1,
+        "Química": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0320",
+      "carrera": "Ingeniería en Tecnología Minera / Ing. Geológica / Ing. Mineralúrgica y Metalúrgica de las Materias Primas / Ing. en Recursos Energéticos, Combustibles y Explosivos",
+      "nota_corte_ordinaria": 8.39,
+      "campus_id": "upm_minas",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Química": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Geología y Ciencias Ambientales": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0321",
+      "carrera": "Ingeniería en Tecnologías Industriales",
+      "nota_corte_ordinaria": 12.114,
+      "campus_id": "upm_industriales",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Química": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0322",
+      "carrera": "Ingeniería Forestal",
+      "nota_corte_ordinaria": 5.404,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Biología": 0.2,
+        "Física": 0.2,
+        "Química": 0.2,
+        "Geografía": 0.1,
+        "Tecnología e Ingeniería II": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0323",
+      "carrera": "Ingeniería Geomática",
+      "nota_corte_ordinaria": 6.686,
+      "campus_id": "upm_sur",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Dibujo Técnico II": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Geografía": 0.1,
+        "Geología y Ciencias Ambientales": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0324",
+      "carrera": "Ingeniería Informática",
+      "nota_corte_ordinaria": 10.175,
+      "campus_id": "upm_montegancedo",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Química": 0.1,
+        "Empresa y Diseño de Modelos de Negocio": 0.1
+      }
+    },
+    {
+      "codigo": "0325",
+      "carrera": "Arquitectura Naval / Ingeniería Marítima",
+      "nota_corte_ordinaria": 10.467,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Dibujo Técnico II": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Química": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0326",
+      "carrera": "Ingeniería Mecánica",
+      "nota_corte_ordinaria": 11.867,
+      "campus_id": "upm_industriales",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Dibujo Técnico II": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Química": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0327",
+      "carrera": "Ingeniería Química (Castellana)",
+      "nota_corte_ordinaria": 11.707,
+      "campus_id": "upm_industriales",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Química": 0.2,
+        "Física": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Biología": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0328",
+      "carrera": "Ingeniería Química (Embajadores)",
+      "nota_corte_ordinaria": 10.883,
+      "campus_id": "upm_etsidi",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Química": 0.2,
+        "Física": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Biología": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0329",
+      "carrera": "Ingeniería Telemática",
+      "nota_corte_ordinaria": 8.54,
+      "campus_id": "upm_sur",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Química": 0.1,
+        "Empresa y Diseño de Modelos de Negocio": 0.1
+      }
+    },
+    {
+      "codigo": "0330",
+      "carrera": "Ciencias Agrarias y Bioeconomía",
+      "nota_corte_ordinaria": 6.851,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Matemáticas Aplicadas a las Ciencias Sociales II": 0.2,
+        "Matemáticas II": 0.2,
+        "Biología": 0.2,
+        "Empresa y Diseño de Modelos de Negocio": 0.2,
+        "Geografía": 0.2,
+        "Química": 0.2,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0331",
+      "carrera": "Matemáticas e Informática",
+      "nota_corte_ordinaria": 11.507,
+      "campus_id": "upm_montegancedo",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Química": 0.1,
+        "Empresa y Diseño de Modelos de Negocio": 0.1
+      }
+    },
+    {
+      "codigo": "0332",
+      "carrera": "Tecnologías para la Sociedad de la Información",
+      "nota_corte_ordinaria": 8.19,
+      "campus_id": "upm_sur",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Química": 0.1,
+        "Empresa y Diseño de Modelos de Negocio": 0.1
+      }
+    },
+    {
+      "codigo": "0333",
+      "carrera": "Biotecnología",
+      "nota_corte_ordinaria": 12.728,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Biología": 0.2,
+        "Química": 0.2,
+        "Física": 0.2,
+        "Ciencias Generales": 0.1,
+        "Tecnología e Ingeniería II": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0334",
+      "carrera": "Ingeniería Biomédica",
+      "nota_corte_ordinaria": 12.553,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Biología": 0.2,
+        "Química": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Empresa y Diseño de Modelos de Negocio": 0.1
+      }
+    },
+    {
+      "codigo": "0335",
+      "carrera": "Sistemas de Información",
+      "nota_corte_ordinaria": 9.08,
+      "campus_id": "upm_sur",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Química": 0.1,
+        "Empresa y Diseño de Modelos de Negocio": 0.1
+      }
+    },
+    {
+      "codigo": "0336",
+      "carrera": "Ingeniería de Organización",
+      "nota_corte_ordinaria": 12.636,
+      "campus_id": "upm_industriales",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Empresa y Diseño de Modelos de Negocio": 0.2,
+        "Química": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0337",
+      "carrera": "Ingeniería en Tecnologías Ambientales",
+      "nota_corte_ordinaria": 6.464,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Biología": 0.2,
+        "Química": 0.2,
+        "Física": 0.2,
+        "Geología y Ciencias Ambientales": 0.1,
+        "Tecnología e Ingeniería II": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0338",
+      "carrera": "Gestión y Operaciones del Transporte Aéreo",
+      "nota_corte_ordinaria": 11.478,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Empresa y Diseño de Modelos de Negocio": 0.2,
+        "Geografía": 0.2,
+        "Tecnología e Ingeniería II": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0339",
+      "carrera": "Ingeniería de las Tecnologías de la Información Geoespacial",
+      "nota_corte_ordinaria": 7.31,
+      "campus_id": "upm_sur",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Empresa y Diseño de Modelos de Negocio": 0.1
+      }
+    },
+    {
+      "codigo": "0340",
+      "carrera": "Diseño de Moda",
+      "nota_corte_ordinaria": 5.0,
+      "campus_id": "upm_etsidi",
+      "ponderaciones": {
+        "Análisis Musical II": 0.2,
+        "Dibujo Artístico II": 0.2,
+        "Latín II": 0.2,
+        "Matemáticas Aplicadas a las Ciencias Sociales II": 0.2,
+        "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño II": 0.2,
+        "Diseño": 0.2,
+        "Fundamentos Artísticos": 0.2,
+        "Historia del Arte": 0.2,
+        "Literatura Dramática": 0.2,
+        "Movimientos Culturales y Artísticos": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1,
+        "Empresa y Diseño de Modelos de Negocio": 0.1
+      }
+    },
+    {
+      "codigo": "0341",
+      "carrera": "Ingeniería y Sistemas de datos (Campus Moncloa)",
+      "nota_corte_ordinaria": 11.128,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Química": 0.1,
+        "Empresa y Diseño de Modelos de Negocio": 0.1
+      }
+    },
+    {
+      "codigo": "0343",
+      "carrera": "Ciencia de Datos e Inteligencia Artificial (Campus de Montegancedo)",
+      "nota_corte_ordinaria": 11.899,
+      "campus_id": "upm_montegancedo",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Química": 0.1,
+        "Empresa y Diseño de Modelos de Negocio": 0.1
+      }
+    },
+    {
+      "codigo": "0344",
+      "carrera": "Ciencia de Datos e Inteligencia Artificial (Campus Sur)",
+      "nota_corte_ordinaria": 12.139,
+      "campus_id": "upm_sur",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Química": 0.1,
+        "Empresa y Diseño de Modelos de Negocio": 0.1
+      }
+    },
+    {
+      "codigo": "0345",
+      "carrera": "Matemáticas",
+      "nota_corte_ordinaria": 12.058,
+      "campus_id": "upm_montegancedo",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Biología": 0.2,
+        "Física": 0.2,
+        "Química": 0.2,
+        "Geología y Ciencias Ambientales": 0.2
+      }
+    },
+    {
+      "codigo": "0346",
+      "carrera": "Ingeniería Civil y Territorial (Retiro)",
+      "nota_corte_ordinaria": 9.675,
+      "campus_id": "upm_retiro",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Dibujo Técnico II": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Química": 0.1,
+        "Geología y Ciencias Ambientales": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0347",
+      "carrera": "Ingeniería en Tecnologías Aeroespaciales",
+      "nota_corte_ordinaria": 12.363,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Química": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0350",
+      "carrera": "Ciencias de la Actividad Física y del Deporte (INEF)",
+      "nota_corte_ordinaria": 8.925,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Ciencias Generales": 0.2,
+        "Matemáticas Aplicadas a las Ciencias Sociales II": 0.2,
+        "Matemáticas II": 0.2,
+        "Biología": 0.2,
+        "Física": 0.2,
+        "Química": 0.2,
+        "Análisis Musical II": 0.1,
+        "Artes Escénicas II": 0.1,
+        "Dibujo Artístico II": 0.1,
+        "Latín II": 0.1,
+        "Empresa y Diseño de Modelos de Negocio": 0.1,
+        "Geografía": 0.1,
+        "Geología y Ciencias Ambientales": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1,
+        "Historia del Arte": 0.1
+      }
+    },
+    {
+      "codigo": "0359",
+      "carrera": "Ingeniería y Sistemas de Datos e Ingeniería Telemática (Campus Sur)",
+      "nota_corte_ordinaria": 8.828,
+      "campus_id": "upm_sur",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Química": 0.1,
+        "Empresa y Diseño de Modelos de Negocio": 0.1
+      }
+    },
+    {
+      "codigo": "0360",
+      "carrera": "Ingeniería en Diseño Industrial y Desarrollo de Producto - Ingeniería Mecánica",
+      "nota_corte_ordinaria": 12.878,
+      "campus_id": "upm_etsidi",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Dibujo Técnico II": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Química": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0361",
+      "carrera": "Edificación - Administración y Dirección de Empresas",
+      "nota_corte_ordinaria": 8.115,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Matemáticas Aplicadas a las Ciencias Sociales II": 0.2,
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Empresa y Diseño de Modelos de Negocio": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Geografía": 0.1,
+        "Historia del Arte": 0.1,
+        "Química": 0.1
+      }
+    },
+    {
+      "codigo": "0362",
+      "carrera": "Ingeniería Eléctrica - Ingeniería Electrónica Industrial y Automática",
+      "nota_corte_ordinaria": 11.361,
+      "campus_id": "upm_industriales",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Dibujo Técnico II": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Química": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0365",
+      "carrera": "Ingeniería Informática - Administración y Dirección de Empresas",
+      "nota_corte_ordinaria": 11.589,
+      "campus_id": "upm_montegancedo",
+      "ponderaciones": {
+        "Matemáticas Aplicadas a las Ciencias Sociales II": 0.2,
+        "Matemáticas II": 0.2,
+        "Empresa y Diseño de Modelos de Negocio": 0.2,
+        "Física": 0.1,
+        "Dibujo Técnico II": 0.1,
+        "Química": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0366",
+      "carrera": "Ingeniería Civil y Territorial - Administración y Dirección de Empresas",
+      "nota_corte_ordinaria": 10.741,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Matemáticas Aplicadas a las Ciencias Sociales II": 0.2,
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Empresa y Diseño de Modelos de Negocio": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Geografía": 0.1,
+        "Geología y Ciencias Ambientales": 0.1,
+        "Química": 0.1
+      }
+    },
+    {
+      "codigo": "0367",
+      "carrera": "Ingeniería Electrónica de Comunicaciones - Ingeniería Telemática",
+      "nota_corte_ordinaria": 8.214,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Química": 0.1,
+        "Empresa y Diseño de Modelos de Negocio": 0.1
+      }
+    },
+    {
+      "codigo": "0368",
+      "carrera": "Diseño de Moda (UPM) y Comercio (UCM)",
+      "nota_corte_ordinaria": 5.0,
+      "campus_id": "upm_etsidi",
+      "ponderaciones": {
+        "Análisis Musical II": 0.2,
+        "Dibujo Artístico II": 0.2,
+        "Latín II": 0.2,
+        "Matemáticas Aplicadas a las Ciencias Sociales II": 0.2,
+        "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño II": 0.2,
+        "Diseño": 0.2,
+        "Empresa y Diseño de Modelos de Negocio": 0.2,
+        "Fundamentos Artísticos": 0.2,
+        "Historia del Arte": 0.2,
+        "Literatura Dramática": 0.2,
+        "Movimientos Culturales y Artísticos": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0369",
+      "carrera": "Ingeniería Geomática e Ingeniería de las Tecnologías de la Información Geoespacial (Campus Sur)",
+      "nota_corte_ordinaria": 7.177,
+      "campus_id": "upm_sur",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Dibujo Técnico II": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Geografía": 0.1,
+        "Geología y Ciencias Ambientales": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0371",
+      "carrera": "Ingeniero/a de Montes (PARS)",
+      "nota_corte_ordinaria": 8.739,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Biología": 0.2,
+        "Física": 0.2,
+        "Química": 0.2,
+        "Geografía": 0.1,
+        "Tecnología e Ingeniería II": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0372",
+      "carrera": "Ingeniero/a del Software (PARS)",
+      "nota_corte_ordinaria": 11.533,
+      "campus_id": "upm_montegancedo",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Química": 0.1,
+        "Empresa y Diseño de Modelos de Negocio": 0.1
+      }
+    },
+    {
+      "codigo": "0373",
+      "carrera": "Ingeniero/a Sistemas Informáticos Distribuidos y Embebidos (PARS)",
+      "nota_corte_ordinaria": 8.728,
+      "campus_id": "upm_sur",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Química": 0.1,
+        "Empresa y Diseño de Modelos de Negocio": 0.1
+      }
+    },
+    {
+      "codigo": "0375",
+      "carrera": "Ingeniero/a de Caminos, Canales y Puertos (PARS)",
+      "nota_corte_ordinaria": 11.961,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Dibujo Técnico II": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Química": 0.1,
+        "Geología y Ciencias Ambientales": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0376",
+      "carrera": "Ingeniero/a Informática (PARS)",
+      "nota_corte_ordinaria": 11.425,
+      "campus_id": "upm_montegancedo",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Química": 0.1,
+        "Empresa y Diseño de Modelos de Negocio": 0.1
+      }
+    },
+    {
+      "codigo": "0377",
+      "carrera": "Ingeniero/a de Telecomunicación (PARS)",
+      "nota_corte_ordinaria": 11.686,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Química": 0.1,
+        "Empresa y Diseño de Modelos de Negocio": 0.1
+      }
+    },
+    {
+      "codigo": "0378",
+      "carrera": "Ingeniero/a Agrónomo/a (PARS)",
+      "nota_corte_ordinaria": 10.814,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Biología": 0.2,
+        "Física": 0.2,
+        "Química": 0.2,
+        "Ciencias Generales": 0.1,
+        "Tecnología e Ingeniería II": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0380",
+      "carrera": "Ingeniero/a de Minas (PARS)",
+      "nota_corte_ordinaria": 10.388,
+      "campus_id": "upm_minas",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Química": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Geología y Ciencias Ambientales": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0381",
+      "carrera": "Arquitecto/a (PARS)",
+      "nota_corte_ordinaria": 13.089,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Dibujo Técnico II": 0.2,
+        "Geografía": 0.1,
+        "Historia del Arte": 0.1,
+        "Química": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0385",
+      "carrera": "Ingeniero/a de Materiales (PARS)",
+      "nota_corte_ordinaria": 10.728,
+      "campus_id": "upm_industriales",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Química": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0386",
+      "carrera": "Ingeniero/a Industrial (PARS)",
+      "nota_corte_ordinaria": 13.525,
+      "campus_id": "upm_industriales",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Química": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0387",
+      "carrera": "Ingeniero/a Naval y Oceánica (PARS)",
+      "nota_corte_ordinaria": 11.978,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Dibujo Técnico II": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Química": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    },
+    {
+      "codigo": "0388",
+      "carrera": "Ingeniero/a Biomédico/a (PARS)",
+      "nota_corte_ordinaria": 13.15,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Biología": 0.2,
+        "Química": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Empresa y Diseño de Modelos de Negocio": 0.1
+      }
+    },
+    {
+      "codigo": "0389",
+      "carrera": "Ingeniero/a Aeronáutico/a (PARS)",
+      "nota_corte_ordinaria": 13.411,
+      "campus_id": "upm_moncloa",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Química": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Historia de España / Historia de la Filosofía": 0.1
+      }
+    }
   ]
 }
