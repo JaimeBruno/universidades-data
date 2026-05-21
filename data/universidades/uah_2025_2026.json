@@ -10,21 +10,21 @@
       "nota_corte_ordinaria": 5.0,
       "campus_id": "uah_alcala_historico",
       "ponderaciones": {
-        "Latín II": 0.2,
-        "Artes Escénicas": 0.2,
-        "Dibujo Artístico II": 0.2,
-        "Fundamentos del Arte II": 0.2,
-        "Geografía": 0.2,
-        "Griego II": 0.2,
-        "Hª Filosofía / Hª España": 0.2,
-        "Historia de la Música y Danza": 0.2,
-        "Historia del Arte": 0.2,
-        "Literatura Dramática": 0.2,
-        "Movimientos Culturales y Artísticos": 0.2,
         "Lengua Extranjera Adicional": 0.2,
+        "Análisis Musical II": 0.2,
+        "Ciencias Generales": 0.2,
+        "Dibujo Artístico II": 0.2,
+        "Artes Escénicas II": 0.2,
+        "Latín II": 0.1,
         "Matemáticas II": 0.1,
-        "Matemáticas Aplicadas CCSS II": 0.1,
-        "Física": 0.1
+        "Matemáticas Aplicadas a las Ciencias Sociales II": 0.2,
+        "Fundamentos Artísticos": 0.2,
+        "Biología": 0.2,
+        "Coro y Técnica Vocal II": 0.2,
+        "Dibujo Técnico II": 0.2,
+        "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño II": 0.2,
+        "Diseño": 0.1,
+        "Empresa y Diseño de Modelos de Negocio": 0.2
       }
     },
     {
@@ -33,21 +33,21 @@
       "nota_corte_ordinaria": 6.864,
       "campus_id": "uah_alcala_historico",
       "ponderaciones": {
-        "Latín II": 0.2,
-        "Artes Escénicas": 0.2,
-        "Dibujo Artístico II": 0.2,
-        "Fundamentos del Arte II": 0.2,
-        "Geografía": 0.2,
-        "Griego II": 0.2,
-        "Hª Filosofía / Hª España": 0.2,
-        "Historia de la Música y Danza": 0.2,
-        "Historia del Arte": 0.2,
-        "Literatura Dramática": 0.2,
-        "Movimientos Culturales y Artísticos": 0.2,
         "Lengua Extranjera Adicional": 0.2,
+        "Análisis Musical II": 0.2,
+        "Ciencias Generales": 0.2,
+        "Dibujo Artístico II": 0.2,
+        "Artes Escénicas II": 0.2,
+        "Latín II": 0.1,
         "Matemáticas II": 0.1,
-        "Matemáticas Aplicadas CCSS II": 0.1,
-        "Física": 0.1
+        "Matemáticas Aplicadas a las Ciencias Sociales II": 0.2,
+        "Fundamentos Artísticos": 0.2,
+        "Biología": 0.2,
+        "Coro y Técnica Vocal II": 0.2,
+        "Dibujo Técnico II": 0.2,
+        "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño II": 0.2,
+        "Diseño": 0.1,
+        "Empresa y Diseño de Modelos de Negocio": 0.2
       }
     },
     {
@@ -56,20 +56,20 @@
       "nota_corte_ordinaria": 5.71,
       "campus_id": "uah_alcala_historico",
       "ponderaciones": {
-        "Latín II": 0.2,
-        "Dibujo Artístico II": 0.2,
-        "Fundamentos del Arte II": 0.2,
-        "Geografía": 0.2,
-        "Griego II": 0.2,
-        "Hª Filosofía / Hª España": 0.2,
-        "Historia de la Música y Danza": 0.2,
-        "Historia del Arte": 0.2,
-        "Literatura Dramática": 0.2,
-        "Movimientos Culturales y Artísticos": 0.2,
         "Lengua Extranjera Adicional": 0.2,
+        "Análisis Musical II": 0.2,
+        "Ciencias Generales": 0.2,
+        "Dibujo Artístico II": 0.2,
+        "Artes Escénicas II": 0.2,
+        "Latín II": 0.1,
         "Matemáticas II": 0.1,
-        "Matemáticas Aplicadas CCSS II": 0.1,
-        "Física": 0.1
+        "Matemáticas Aplicadas a las Ciencias Sociales II": 0.2,
+        "Fundamentos Artísticos": 0.2,
+        "Biología": 0.2,
+        "Coro y Técnica Vocal II": 0.2,
+        "Dibujo Técnico II": 0.2,
+        "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño II": 0.1,
+        "Diseño": 0.2
       }
     },
     {
@@ -78,22 +78,22 @@
       "nota_corte_ordinaria": 5.0,
       "campus_id": "uah_alcala_historico",
       "ponderaciones": {
-        "Latín II": 0.2,
-        "Artes Escénicas": 0.2,
-        "Dibujo Artístico II": 0.2,
-        "Fundamentos del Arte II": 0.2,
-        "Geografía": 0.2,
-        "Griego II": 0.2,
-        "Hª Filosofía / Hª España": 0.2,
-        "Historia de la Música y Danza": 0.2,
-        "Historia del Arte": 0.2,
-        "Literatura Dramática": 0.2,
-        "Movimientos Culturales y Artísticos": 0.2,
         "Lengua Extranjera Adicional": 0.2,
-        "Matemáticas II": 0.1,
-        "Física": 0.1,
-        "Economía de la Empresa": 0.1,
-        "Ciencias Generales": 0.2
+        "Análisis Musical II": 0.2,
+        "Ciencias Generales": 0.2,
+        "Dibujo Artístico II": 0.2,
+        "Artes Escénicas II": 0.2,
+        "Latín II": 0.1,
+        "Matemáticas II": 0.2,
+        "Matemáticas Aplicadas a las Ciencias Sociales II": 0.2,
+        "Fundamentos Artísticos": 0.2,
+        "Biología": 0.2,
+        "Coro y Técnica Vocal II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño II": 0.2,
+        "Diseño": 0.1,
+        "Empresa y Diseño de Modelos de Negocio": 0.2,
+        "Física": 0.2
       }
     },
     {
@@ -102,21 +102,21 @@
       "nota_corte_ordinaria": 5.659,
       "campus_id": "uah_alcala_historico",
       "ponderaciones": {
-        "Latín II": 0.2,
-        "Artes Escénicas": 0.2,
-        "Dibujo Artístico II": 0.2,
-        "Fundamentos del Arte II": 0.2,
-        "Geografía": 0.2,
-        "Griego II": 0.2,
-        "Hª Filosofía / Hª España": 0.2,
-        "Historia de la Música y Danza": 0.2,
-        "Historia del Arte": 0.2,
-        "Literatura Dramática": 0.2,
-        "Movimientos Culturales y Artísticos": 0.2,
         "Lengua Extranjera Adicional": 0.2,
-        "Matemáticas II": 0.1,
-        "Matemáticas Aplicadas CCSS II": 0.1,
-        "Física": 0.1
+        "Análisis Musical II": 0.2,
+        "Ciencias Generales": 0.2,
+        "Dibujo Artístico II": 0.2,
+        "Artes Escénicas II": 0.2,
+        "Latín II": 0.1,
+        "Matemáticas II": 0.2,
+        "Matemáticas Aplicadas a las Ciencias Sociales II": 0.2,
+        "Fundamentos Artísticos": 0.2,
+        "Biología": 0.2,
+        "Coro y Técnica Vocal II": 0.2,
+        "Dibujo Técnico II": 0.2,
+        "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño II": 0.2,
+        "Diseño": 0.1,
+        "Empresa y Diseño de Modelos de Negocio": 0.2
       }
     },
     {
@@ -125,21 +125,21 @@
       "nota_corte_ordinaria": 5.0,
       "campus_id": "uah_guadalajara",
       "ponderaciones": {
-        "Latín II": 0.2,
-        "Artes Escénicas": 0.2,
-        "Dibujo Artístico II": 0.2,
-        "Fundamentos del Arte II": 0.2,
-        "Geografía": 0.2,
-        "Griego II": 0.2,
-        "Hª Filosofía / Hª España": 0.2,
-        "Historia de la Música y Danza": 0.2,
-        "Historia del Arte": 0.2,
-        "Literatura Dramática": 0.2,
-        "Movimientos Culturales y Artísticos": 0.2,
         "Lengua Extranjera Adicional": 0.2,
-        "Matemáticas II": 0.1,
-        "Matemáticas Aplicadas CCSS II": 0.1,
-        "Física": 0.1
+        "Análisis Musical II": 0.2,
+        "Ciencias Generales": 0.2,
+        "Dibujo Artístico II": 0.2,
+        "Artes Escénicas II": 0.2,
+        "Latín II": 0.1,
+        "Matemáticas II": 0.2,
+        "Matemáticas Aplicadas a las Ciencias Sociales II": 0.2,
+        "Fundamentos Artísticos": 0.2,
+        "Biología": 0.2,
+        "Coro y Técnica Vocal II": 0.2,
+        "Dibujo Técnico II": 0.2,
+        "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño II": 0.2,
+        "Diseño": 0.1,
+        "Empresa y Diseño de Modelos de Negocio": 0.2
       }
     },
     {
@@ -148,13 +148,13 @@
       "nota_corte_ordinaria": 9.7,
       "campus_id": "uah_alcala_cientifico",
       "ponderaciones": {
-        "Matemáticas II": 0.2,
-        "Biología": 0.2,
-        "Física": 0.2,
-        "Química": 0.2,
-        "Tecnología e Ingeniería II": 0.2,
-        "Ciencias Generales": 0.1,
-        "Geología": 0.1
+        "Lengua Extranjera Adicional": 0.1,
+        "Análisis Musical II": 0.2,
+        "Ciencias Generales": 0.2,
+        "Dibujo Artístico II": 0.1,
+        "Artes Escénicas II": 0.2,
+        "Latín II": 0.2,
+        "Matemáticas II": 0.2
       }
     },
     {
@@ -163,14 +163,14 @@
       "nota_corte_ordinaria": 7.106,
       "campus_id": "uah_alcala_cientifico",
       "ponderaciones": {
-        "Matemáticas II": 0.2,
-        "Biología": 0.2,
-        "Física": 0.2,
-        "Química": 0.2,
-        "Geología": 0.2,
-        "Tecnología e Ingeniería II": 0.2,
+        "Lengua Extranjera Adicional": 0.2,
+        "Análisis Musical II": 0.2,
         "Ciencias Generales": 0.2,
-        "Geografía": 0.1
+        "Dibujo Artístico II": 0.2,
+        "Artes Escénicas II": 0.1,
+        "Latín II": 0.2,
+        "Matemáticas II": 0.2,
+        "Matemáticas Aplicadas a las Ciencias Sociales II": 0.2
       }
     },
     {
@@ -194,12 +194,12 @@
       "nota_corte_ordinaria": 11.83,
       "campus_id": "uah_alcala_cientifico",
       "ponderaciones": {
-        "Matemáticas II": 0.2,
-        "Física": 0.2,
-        "Química": 0.2,
-        "Tecnología e Ingeniería II": 0.2,
-        "Dibujo Técnico II": 0.1,
-        "Biología": 0.2
+        "Lengua Extranjera Adicional": 0.2,
+        "Análisis Musical II": 0.2,
+        "Ciencias Generales": 0.1,
+        "Dibujo Artístico II": 0.2,
+        "Artes Escénicas II": 0.2,
+        "Latín II": 0.2
       }
     },
     {
@@ -208,12 +208,12 @@
       "nota_corte_ordinaria": 9.864,
       "campus_id": "uah_alcala_cientifico",
       "ponderaciones": {
-        "Matemáticas II": 0.2,
-        "Física": 0.2,
-        "Química": 0.2,
-        "Biología": 0.2,
-        "Tecnología e Ingeniería II": 0.2,
-        "Dibujo Técnico II": 0.1
+        "Lengua Extranjera Adicional": 0.2,
+        "Análisis Musical II": 0.2,
+        "Ciencias Generales": 0.1,
+        "Dibujo Artístico II": 0.2,
+        "Artes Escénicas II": 0.2,
+        "Latín II": 0.2
       }
     },
     {
@@ -222,10 +222,10 @@
       "nota_corte_ordinaria": 11.839,
       "campus_id": "uah_alcala_cientifico",
       "ponderaciones": {
-        "Matemáticas II": 0.2,
-        "Biología": 0.2,
-        "Física": 0.2,
-        "Química": 0.2
+        "Lengua Extranjera Adicional": 0.2,
+        "Análisis Musical II": 0.2,
+        "Ciencias Generales": 0.2,
+        "Dibujo Artístico II": 0.2
       }
     },
     {
@@ -234,16 +234,16 @@
       "nota_corte_ordinaria": 10.325,
       "campus_id": "uah_alcala_cientifico",
       "ponderaciones": {
-        "Matemáticas II": 0.2,
-        "Biología": 0.2,
-        "Física": 0.2,
-        "Química": 0.2,
-        "Ciencias Generales": 0.2,
-        "Matemáticas Aplicadas CCSS II": 0.2,
-        "Economía de la Empresa": 0.2,
-        "Hª Filosofía / Hª España": 0.2,
         "Lengua Extranjera Adicional": 0.2,
-        "Tecnología e Ingeniería II": 0.1
+        "Análisis Musical II": 0.2,
+        "Ciencias Generales": 0.2,
+        "Dibujo Artístico II": 0.2,
+        "Artes Escénicas II": 0.2,
+        "Latín II": 0.2,
+        "Matemáticas II": 0.2,
+        "Matemáticas Aplicadas a las Ciencias Sociales II": 0.2,
+        "Fundamentos Artísticos": 0.2,
+        "Biología": 0.1
       }
     },
     {
@@ -252,10 +252,10 @@
       "nota_corte_ordinaria": 11.426,
       "campus_id": "uah_alcala_cientifico",
       "ponderaciones": {
-        "Matemáticas II": 0.2,
-        "Biología": 0.2,
-        "Física": 0.2,
-        "Química": 0.2
+        "Lengua Extranjera Adicional": 0.2,
+        "Análisis Musical II": 0.2,
+        "Ciencias Generales": 0.2,
+        "Dibujo Artístico II": 0.2
       }
     },
     {
@@ -276,10 +276,10 @@
       "nota_corte_ordinaria": 11.22,
       "campus_id": "uah_alcala_cientifico",
       "ponderaciones": {
-        "Matemáticas II": 0.2,
-        "Biología": 0.2,
-        "Física": 0.2,
-        "Química": 0.2
+        "Lengua Extranjera Adicional": 0.2,
+        "Análisis Musical II": 0.2,
+        "Ciencias Generales": 0.2,
+        "Dibujo Artístico II": 0.2
       }
     },
     {
@@ -288,10 +288,10 @@
       "nota_corte_ordinaria": 10.85,
       "campus_id": "uah_alcala_cientifico",
       "ponderaciones": {
-        "Matemáticas II": 0.2,
-        "Biología": 0.2,
-        "Física": 0.2,
-        "Química": 0.2
+        "Lengua Extranjera Adicional": 0.2,
+        "Análisis Musical II": 0.2,
+        "Ciencias Generales": 0.2,
+        "Dibujo Artístico II": 0.2
       }
     },
     {
@@ -300,10 +300,10 @@
       "nota_corte_ordinaria": 12.871,
       "campus_id": "uah_alcala_cientifico",
       "ponderaciones": {
-        "Matemáticas II": 0.2,
-        "Biología": 0.2,
-        "Física": 0.2,
-        "Química": 0.2
+        "Lengua Extranjera Adicional": 0.2,
+        "Análisis Musical II": 0.2,
+        "Ciencias Generales": 0.2,
+        "Dibujo Artístico II": 0.2
       }
     },
     {
@@ -312,19 +312,23 @@
       "nota_corte_ordinaria": 9.225,
       "campus_id": "uah_alcala_historico",
       "ponderaciones": {
-        "Matemáticas II": 0.2,
-        "Matemáticas Aplicadas CCSS II": 0.2,
-        "Economía de la Empresa": 0.2,
-        "Geografía": 0.2,
-        "Hª Filosofía / Hª España": 0.2,
-        "Historia del Arte": 0.2,
+        "Lengua Extranjera Adicional": 0.1,
+        "Análisis Musical II": 0.1,
+        "Ciencias Generales": 0.2,
+        "Dibujo Artístico II": 0.2,
+        "Artes Escénicas II": 0.2,
         "Latín II": 0.1,
-        "Ciencias Generales": 0.1,
-        "Física": 0.1,
-        "Química": 0.1,
-        "Tecnología e Ingeniería II": 0.1,
-        "Biología": 0.1,
-        "Lengua Extranjera Adicional": 0.1
+        "Matemáticas II": 0.1,
+        "Matemáticas Aplicadas a las Ciencias Sociales II": 0.1,
+        "Fundamentos Artísticos": 0.2,
+        "Biología": 0.2,
+        "Coro y Técnica Vocal II": 0.2,
+        "Dibujo Técnico II": 0.2,
+        "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño II": 0.1,
+        "Diseño": 0.2,
+        "Empresa y Diseño de Modelos de Negocio": 0.1,
+        "Física": 0.2,
+        "Geografía": 0.1
       }
     },
     {
@@ -333,19 +337,23 @@
       "nota_corte_ordinaria": 7.882,
       "campus_id": "uah_guadalajara",
       "ponderaciones": {
-        "Matemáticas II": 0.2,
-        "Matemáticas Aplicadas CCSS II": 0.2,
-        "Economía de la Empresa": 0.2,
-        "Geografía": 0.2,
-        "Hª Filosofía / Hª España": 0.2,
-        "Historia del Arte": 0.2,
+        "Lengua Extranjera Adicional": 0.1,
+        "Análisis Musical II": 0.1,
+        "Ciencias Generales": 0.2,
+        "Dibujo Artístico II": 0.2,
+        "Artes Escénicas II": 0.2,
         "Latín II": 0.1,
-        "Ciencias Generales": 0.1,
-        "Física": 0.1,
-        "Química": 0.1,
-        "Tecnología e Ingeniería II": 0.1,
-        "Biología": 0.1,
-        "Lengua Extranjera Adicional": 0.1
+        "Matemáticas II": 0.1,
+        "Matemáticas Aplicadas a las Ciencias Sociales II": 0.1,
+        "Fundamentos Artísticos": 0.2,
+        "Biología": 0.2,
+        "Coro y Técnica Vocal II": 0.2,
+        "Dibujo Técnico II": 0.2,
+        "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño II": 0.1,
+        "Diseño": 0.2,
+        "Empresa y Diseño de Modelos de Negocio": 0.1,
+        "Física": 0.2,
+        "Geografía": 0.1
       }
     },
     {
@@ -354,23 +362,24 @@
       "nota_corte_ordinaria": 7.89,
       "campus_id": "uah_guadalajara",
       "ponderaciones": {
-        "Análisis Musical II": 0.2,
-        "Artes Escénicas": 0.2,
-        "Dibujo Artístico II": 0.2,
-        "Fundamentos del Arte II": 0.2,
-        "Latín II": 0.2,
-        "Economía de la Empresa": 0.2,
-        "Geografía": 0.2,
-        "Hª Filosofía / Hª España": 0.2,
-        "Historia de la Música y Danza": 0.2,
-        "Historia del Arte": 0.2,
-        "Literatura Dramática": 0.2,
         "Lengua Extranjera Adicional": 0.2,
-        "Matemáticas II": 0.1,
-        "Matemáticas Aplicadas CCSS II": 0.1,
+        "Análisis Musical II": 0.2,
+        "Ciencias Generales": 0.2,
+        "Dibujo Artístico II": 0.2,
+        "Artes Escénicas II": 0.2,
+        "Latín II": 0.1,
+        "Matemáticas II": 0.2,
+        "Matemáticas Aplicadas a las Ciencias Sociales II": 0.2,
+        "Fundamentos Artísticos": 0.2,
+        "Biología": 0.2,
+        "Coro y Técnica Vocal II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño II": 0.2,
+        "Diseño": 0.2,
+        "Empresa y Diseño de Modelos de Negocio": 0.2,
         "Física": 0.1,
-        "Química": 0.1,
-        "Movimientos Culturales y Artísticos": 0.2
+        "Geografía": 0.1,
+        "Geología y Ciencias Ambientales": 0.2
       }
     },
     {
@@ -379,19 +388,23 @@
       "nota_corte_ordinaria": 7.541,
       "campus_id": "uah_alcala_historico",
       "ponderaciones": {
-        "Matemáticas II": 0.2,
-        "Matemáticas Aplicadas CCSS II": 0.2,
-        "Economía de la Empresa": 0.2,
-        "Geografía": 0.2,
-        "Hª Filosofía / Hª España": 0.2,
-        "Historia del Arte": 0.2,
+        "Lengua Extranjera Adicional": 0.1,
+        "Análisis Musical II": 0.1,
+        "Ciencias Generales": 0.2,
+        "Dibujo Artístico II": 0.2,
+        "Artes Escénicas II": 0.2,
         "Latín II": 0.1,
-        "Ciencias Generales": 0.1,
-        "Física": 0.1,
-        "Química": 0.1,
-        "Tecnología e Ingeniería II": 0.1,
-        "Biología": 0.1,
-        "Lengua Extranjera Adicional": 0.1
+        "Matemáticas II": 0.1,
+        "Matemáticas Aplicadas a las Ciencias Sociales II": 0.1,
+        "Fundamentos Artísticos": 0.2,
+        "Biología": 0.2,
+        "Coro y Técnica Vocal II": 0.2,
+        "Dibujo Técnico II": 0.2,
+        "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño II": 0.1,
+        "Diseño": 0.2,
+        "Empresa y Diseño de Modelos de Negocio": 0.1,
+        "Física": 0.2,
+        "Geografía": 0.1
       }
     },
     {
@@ -400,19 +413,23 @@
       "nota_corte_ordinaria": 8.328,
       "campus_id": "uah_alcala_historico",
       "ponderaciones": {
+        "Lengua Extranjera Adicional": 0.1,
+        "Análisis Musical II": 0.2,
+        "Ciencias Generales": 0.2,
+        "Dibujo Artístico II": 0.2,
+        "Artes Escénicas II": 0.2,
         "Latín II": 0.2,
-        "Matemáticas Aplicadas CCSS II": 0.2,
-        "Economía de la Empresa": 0.2,
-        "Geografía": 0.2,
-        "Griego II": 0.2,
-        "Hª Filosofía / Hª España": 0.2,
-        "Historia del Arte": 0.2,
-        "Lengua Extranjera Adicional": 0.2,
-        "Ciencias Generales": 0.1,
         "Matemáticas II": 0.1,
+        "Matemáticas Aplicadas a las Ciencias Sociales II": 0.1,
+        "Fundamentos Artísticos": 0.2,
+        "Biología": 0.1,
+        "Coro y Técnica Vocal II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño II": 0.2,
+        "Diseño": 0.2,
+        "Empresa y Diseño de Modelos de Negocio": 0.2,
         "Física": 0.1,
-        "Química": 0.1,
-        "Tecnología e Ingeniería II": 0.1
+        "Geografía": 0.2
       }
     },
     {
@@ -421,19 +438,23 @@
       "nota_corte_ordinaria": 7.664,
       "campus_id": "uah_alcala_historico",
       "ponderaciones": {
-        "Matemáticas II": 0.2,
-        "Matemáticas Aplicadas CCSS II": 0.2,
-        "Economía de la Empresa": 0.2,
-        "Geografía": 0.2,
-        "Hª Filosofía / Hª España": 0.2,
-        "Historia del Arte": 0.2,
+        "Lengua Extranjera Adicional": 0.1,
+        "Análisis Musical II": 0.1,
+        "Ciencias Generales": 0.2,
+        "Dibujo Artístico II": 0.2,
+        "Artes Escénicas II": 0.2,
         "Latín II": 0.1,
-        "Ciencias Generales": 0.1,
-        "Física": 0.1,
-        "Química": 0.1,
-        "Tecnología e Ingeniería II": 0.1,
-        "Biología": 0.1,
-        "Lengua Extranjera Adicional": 0.1
+        "Matemáticas II": 0.1,
+        "Matemáticas Aplicadas a las Ciencias Sociales II": 0.1,
+        "Fundamentos Artísticos": 0.2,
+        "Biología": 0.2,
+        "Coro y Técnica Vocal II": 0.2,
+        "Dibujo Técnico II": 0.2,
+        "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño II": 0.1,
+        "Diseño": 0.2,
+        "Empresa y Diseño de Modelos de Negocio": 0.1,
+        "Física": 0.2,
+        "Geografía": 0.1
       }
     },
     {
@@ -442,19 +463,23 @@
       "nota_corte_ordinaria": 11.203,
       "campus_id": "uah_alcala_historico",
       "ponderaciones": {
-        "Matemáticas II": 0.2,
-        "Matemáticas Aplicadas CCSS II": 0.2,
-        "Economía de la Empresa": 0.2,
-        "Geografía": 0.2,
-        "Hª Filosofía / Hª España": 0.2,
-        "Historia del Arte": 0.2,
+        "Lengua Extranjera Adicional": 0.1,
+        "Análisis Musical II": 0.1,
+        "Ciencias Generales": 0.2,
+        "Dibujo Artístico II": 0.2,
+        "Artes Escénicas II": 0.2,
         "Latín II": 0.1,
-        "Ciencias Generales": 0.1,
-        "Física": 0.1,
-        "Química": 0.1,
-        "Tecnología e Ingeniería II": 0.2,
-        "Biología": 0.1,
-        "Lengua Extranjera Adicional": 0.1
+        "Matemáticas II": 0.1,
+        "Matemáticas Aplicadas a las Ciencias Sociales II": 0.1,
+        "Fundamentos Artísticos": 0.2,
+        "Biología": 0.2,
+        "Coro y Técnica Vocal II": 0.2,
+        "Dibujo Técnico II": 0.2,
+        "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño II": 0.1,
+        "Diseño": 0.2,
+        "Empresa y Diseño de Modelos de Negocio": 0.1,
+        "Física": 0.2,
+        "Geografía": 0.2
       }
     },
     {
@@ -525,15 +550,15 @@
       "nota_corte_ordinaria": 10.148,
       "campus_id": "uah_alcala_historico",
       "ponderaciones": {
-        "Matemáticas II": 0.2,
-        "Física": 0.2,
-        "Dibujo Técnico II": 0.2,
-        "Tecnología e Ingeniería II": 0.1,
-        "Química": 0.1,
-        "Biología": 0.2,
+        "Lengua Extranjera Adicional": 0.2,
+        "Análisis Musical II": 0.2,
         "Ciencias Generales": 0.2,
-        "Economía de la Empresa": 0.2,
-        "Fundamentos del Arte II": 0.1
+        "Dibujo Artístico II": 0.1,
+        "Artes Escénicas II": 0.2,
+        "Latín II": 0.2,
+        "Matemáticas II": 0.2,
+        "Matemáticas Aplicadas a las Ciencias Sociales II": 0.1,
+        "Fundamentos Artísticos": 0.1
       }
     },
     {
@@ -542,12 +567,12 @@
       "nota_corte_ordinaria": 8.575,
       "campus_id": "uah_alcala_cientifico",
       "ponderaciones": {
-        "Matemáticas II": 0.2,
-        "Física": 0.2,
-        "Dibujo Técnico II": 0.1,
-        "Tecnología e Ingeniería II": 0.2,
-        "Química": 0.1,
-        "Biología": 0.2
+        "Lengua Extranjera Adicional": 0.2,
+        "Análisis Musical II": 0.2,
+        "Ciencias Generales": 0.1,
+        "Dibujo Artístico II": 0.2,
+        "Artes Escénicas II": 0.2,
+        "Latín II": 0.1
       }
     },
     {
@@ -556,12 +581,12 @@
       "nota_corte_ordinaria": 7.504,
       "campus_id": "uah_alcala_cientifico",
       "ponderaciones": {
-        "Matemáticas II": 0.2,
-        "Física": 0.2,
-        "Dibujo Técnico II": 0.1,
-        "Tecnología e Ingeniería II": 0.2,
-        "Química": 0.1,
-        "Biología": 0.2
+        "Lengua Extranjera Adicional": 0.2,
+        "Análisis Musical II": 0.2,
+        "Ciencias Generales": 0.1,
+        "Dibujo Artístico II": 0.2,
+        "Artes Escénicas II": 0.2,
+        "Latín II": 0.1
       }
     },
     {
@@ -570,12 +595,12 @@
       "nota_corte_ordinaria": 9.976,
       "campus_id": "uah_alcala_cientifico",
       "ponderaciones": {
-        "Matemáticas II": 0.2,
-        "Física": 0.2,
-        "Dibujo Técnico II": 0.1,
-        "Tecnología e Ingeniería II": 0.2,
-        "Química": 0.2,
-        "Biología": 0.2
+        "Lengua Extranjera Adicional": 0.2,
+        "Análisis Musical II": 0.2,
+        "Ciencias Generales": 0.1,
+        "Dibujo Artístico II": 0.2,
+        "Artes Escénicas II": 0.2,
+        "Latín II": 0.2
       }
     },
     {
@@ -584,12 +609,12 @@
       "nota_corte_ordinaria": 11.0,
       "campus_id": "uah_alcala_cientifico",
       "ponderaciones": {
-        "Matemáticas II": 0.2,
-        "Física": 0.2,
-        "Dibujo Técnico II": 0.1,
-        "Tecnología e Ingeniería II": 0.2,
-        "Química": 0.2,
-        "Biología": 0.2
+        "Lengua Extranjera Adicional": 0.2,
+        "Análisis Musical II": 0.2,
+        "Ciencias Generales": 0.1,
+        "Dibujo Artístico II": 0.2,
+        "Artes Escénicas II": 0.2,
+        "Latín II": 0.2
       }
     },
     {
@@ -598,12 +623,12 @@
       "nota_corte_ordinaria": 10.7,
       "campus_id": "uah_alcala_cientifico",
       "ponderaciones": {
-        "Matemáticas II": 0.2,
-        "Física": 0.2,
-        "Dibujo Técnico II": 0.1,
-        "Tecnología e Ingeniería II": 0.2,
-        "Química": 0.1,
-        "Biología": 0.2
+        "Lengua Extranjera Adicional": 0.2,
+        "Análisis Musical II": 0.2,
+        "Ciencias Generales": 0.1,
+        "Dibujo Artístico II": 0.2,
+        "Artes Escénicas II": 0.2,
+        "Latín II": 0.1
       }
     },
     {
@@ -612,12 +637,12 @@
       "nota_corte_ordinaria": 10.064,
       "campus_id": "uah_guadalajara",
       "ponderaciones": {
-        "Matemáticas II": 0.2,
-        "Física": 0.2,
-        "Dibujo Técnico II": 0.1,
-        "Tecnología e Ingeniería II": 0.2,
-        "Química": 0.1,
-        "Biología": 0.2
+        "Lengua Extranjera Adicional": 0.2,
+        "Análisis Musical II": 0.2,
+        "Ciencias Generales": 0.1,
+        "Dibujo Artístico II": 0.2,
+        "Artes Escénicas II": 0.2,
+        "Latín II": 0.1
       }
     },
     {
@@ -626,12 +651,12 @@
       "nota_corte_ordinaria": 8.139,
       "campus_id": "uah_alcala_cientifico",
       "ponderaciones": {
-        "Matemáticas II": 0.2,
-        "Física": 0.2,
-        "Dibujo Técnico II": 0.1,
-        "Tecnología e Ingeniería II": 0.2,
-        "Química": 0.1,
-        "Biología": 0.2
+        "Lengua Extranjera Adicional": 0.2,
+        "Análisis Musical II": 0.2,
+        "Ciencias Generales": 0.1,
+        "Dibujo Artístico II": 0.2,
+        "Artes Escénicas II": 0.2,
+        "Latín II": 0.1
       }
     }
   ]
