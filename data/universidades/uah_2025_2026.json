@@ -4,40 +4,635 @@
   "curso": "2025-26",
   "total_carreras": 35,
   "grados": [
-    {"codigo": "0400", "carrera": "Estudios Hispánicos",                              "nota_corte_ordinaria": 5.000,  "campus_id": "uah_alcala_historico"},
-    {"codigo": "0401", "carrera": "Estudios Ingleses",                                "nota_corte_ordinaria": 6.864,  "campus_id": "uah_alcala_historico"},
-    {"codigo": "0402", "carrera": "Historia",                                         "nota_corte_ordinaria": 5.710,  "campus_id": "uah_alcala_historico"},
-    {"codigo": "0403", "carrera": "Humanidades",                                      "nota_corte_ordinaria": 5.000,  "campus_id": "uah_alcala_historico"},
-    {"codigo": "0404", "carrera": "Lenguas Modernas y Traducción",                    "nota_corte_ordinaria": 5.659,  "campus_id": "uah_alcala_historico"},
-    {"codigo": "0405", "carrera": "Lenguas Modernas y Traducción (Guadalajara)",      "nota_corte_ordinaria": 5.000,  "campus_id": "uah_guadalajara"},
-    {"codigo": "0410", "carrera": "Biología",                                         "nota_corte_ordinaria": 9.700,  "campus_id": "uah_alcala_cientifico"},
-    {"codigo": "0411", "carrera": "Ciencias Ambientales",                             "nota_corte_ordinaria": 7.106,  "campus_id": "uah_alcala_cientifico"},
-    {"codigo": "0413", "carrera": "Criminalística: Ciencias y Tecnologías Forenses",  "nota_corte_ordinaria": 11.636, "campus_id": "uah_alcala_cientifico"},
-    {"codigo": "0415", "carrera": "Física e Instrumentación Espacial",                "nota_corte_ordinaria": 11.830, "campus_id": "uah_alcala_cientifico"},
-    {"codigo": "0412", "carrera": "Química",                                          "nota_corte_ordinaria": 9.864,  "campus_id": "uah_alcala_cientifico"},
-    {"codigo": "0420", "carrera": "Biología Sanitaria",                               "nota_corte_ordinaria": 11.839, "campus_id": "uah_alcala_cientifico"},
-    {"codigo": "0421", "carrera": "Ciencias de la Actividad Física y del Deporte",    "nota_corte_ordinaria": 10.325, "campus_id": "uah_alcala_cientifico"},
-    {"codigo": "0422", "carrera": "Enfermería",                                       "nota_corte_ordinaria": 11.426, "campus_id": "uah_alcala_cientifico"},
-    {"codigo": "0423", "carrera": "Enfermería (Guadalajara)",                         "nota_corte_ordinaria": 11.100, "campus_id": "uah_guadalajara"},
-    {"codigo": "0424", "carrera": "Farmacia",                                         "nota_corte_ordinaria": 11.220, "campus_id": "uah_alcala_cientifico"},
-    {"codigo": "0425", "carrera": "Fisioterapia",                                     "nota_corte_ordinaria": 10.850, "campus_id": "uah_alcala_cientifico"},
-    {"codigo": "0426", "carrera": "Medicina",                                         "nota_corte_ordinaria": 12.871, "campus_id": "uah_alcala_cientifico"},
-    {"codigo": "0460", "carrera": "Administración y Dirección de Empresas",           "nota_corte_ordinaria": 9.225,  "campus_id": "uah_alcala_historico"},
-    {"codigo": "0461", "carrera": "Administración y Dirección de Empresas (Guadalajara)", "nota_corte_ordinaria": 7.882, "campus_id": "uah_guadalajara"},
-    {"codigo": "0462", "carrera": "Comunicación Audiovisual (Guadalajara)",           "nota_corte_ordinaria": 7.890,  "campus_id": "uah_guadalajara"},
-    {"codigo": "0463", "carrera": "Finanzas",                                         "nota_corte_ordinaria": 7.541,  "campus_id": "uah_alcala_historico"},
-    {"codigo": "0464", "carrera": "Derecho",                                          "nota_corte_ordinaria": 8.328,  "campus_id": "uah_alcala_historico"},
-    {"codigo": "0465", "carrera": "Economía",                                         "nota_corte_ordinaria": 7.664,  "campus_id": "uah_alcala_historico"},
-    {"codigo": "0466", "carrera": "Economía y Negocios Internacionales",              "nota_corte_ordinaria": 11.203, "campus_id": "uah_alcala_historico"},
-    {"codigo": "0468", "carrera": "Magisterio de Educación Infantil (Guadalajara)",   "nota_corte_ordinaria": 8.253,  "campus_id": "uah_guadalajara"},
-    {"codigo": "0469", "carrera": "Magisterio de Educación Primaria (Guadalajara)",   "nota_corte_ordinaria": 8.700,  "campus_id": "uah_guadalajara"},
-    {"codigo": "0440", "carrera": "Fundamentos de Arquitectura y Urbanismo",          "nota_corte_ordinaria": 10.148, "campus_id": "uah_alcala_historico"},
-    {"codigo": "0441", "carrera": "Ingeniería de Computadores",                       "nota_corte_ordinaria": 8.575,  "campus_id": "uah_alcala_cientifico"},
-    {"codigo": "0444", "carrera": "Ingeniería Electrónica de Comunicaciones",         "nota_corte_ordinaria": 7.504,  "campus_id": "uah_alcala_cientifico"},
-    {"codigo": "0443", "carrera": "Ingeniería Electrónica y Automática Industrial",   "nota_corte_ordinaria": 9.976,  "campus_id": "uah_alcala_cientifico"},
-    {"codigo": "0450", "carrera": "Ingeniería en Tecnologías Industriales",           "nota_corte_ordinaria": 11.000, "campus_id": "uah_alcala_cientifico"},
-    {"codigo": "0445", "carrera": "Ingeniería Informática",                           "nota_corte_ordinaria": 10.700, "campus_id": "uah_alcala_cientifico"},
-    {"codigo": "0439", "carrera": "Matemáticas y Computación (Guadalajara)",          "nota_corte_ordinaria": 10.064, "campus_id": "uah_guadalajara"},
-    {"codigo": "0449", "carrera": "Ingeniería en Sistemas de Información",            "nota_corte_ordinaria": 8.139,  "campus_id": "uah_alcala_cientifico"}
+    {
+      "codigo": "0400",
+      "carrera": "Estudios Hispánicos",
+      "nota_corte_ordinaria": 5.0,
+      "campus_id": "uah_alcala_historico",
+      "ponderaciones": {
+        "Latín II": 0.2,
+        "Artes Escénicas": 0.2,
+        "Dibujo Artístico II": 0.2,
+        "Fundamentos del Arte II": 0.2,
+        "Geografía": 0.2,
+        "Griego II": 0.2,
+        "Hª Filosofía / Hª España": 0.2,
+        "Historia de la Música y Danza": 0.2,
+        "Historia del Arte": 0.2,
+        "Literatura Dramática": 0.2,
+        "Movimientos Culturales y Artísticos": 0.2,
+        "Lengua Extranjera Adicional": 0.2,
+        "Matemáticas II": 0.1,
+        "Matemáticas Aplicadas CCSS II": 0.1,
+        "Física": 0.1
+      }
+    },
+    {
+      "codigo": "0401",
+      "carrera": "Estudios Ingleses",
+      "nota_corte_ordinaria": 6.864,
+      "campus_id": "uah_alcala_historico",
+      "ponderaciones": {
+        "Latín II": 0.2,
+        "Artes Escénicas": 0.2,
+        "Dibujo Artístico II": 0.2,
+        "Fundamentos del Arte II": 0.2,
+        "Geografía": 0.2,
+        "Griego II": 0.2,
+        "Hª Filosofía / Hª España": 0.2,
+        "Historia de la Música y Danza": 0.2,
+        "Historia del Arte": 0.2,
+        "Literatura Dramática": 0.2,
+        "Movimientos Culturales y Artísticos": 0.2,
+        "Lengua Extranjera Adicional": 0.2,
+        "Matemáticas II": 0.1,
+        "Matemáticas Aplicadas CCSS II": 0.1,
+        "Física": 0.1
+      }
+    },
+    {
+      "codigo": "0402",
+      "carrera": "Historia",
+      "nota_corte_ordinaria": 5.71,
+      "campus_id": "uah_alcala_historico",
+      "ponderaciones": {
+        "Latín II": 0.2,
+        "Dibujo Artístico II": 0.2,
+        "Fundamentos del Arte II": 0.2,
+        "Geografía": 0.2,
+        "Griego II": 0.2,
+        "Hª Filosofía / Hª España": 0.2,
+        "Historia de la Música y Danza": 0.2,
+        "Historia del Arte": 0.2,
+        "Literatura Dramática": 0.2,
+        "Movimientos Culturales y Artísticos": 0.2,
+        "Lengua Extranjera Adicional": 0.2,
+        "Matemáticas II": 0.1,
+        "Matemáticas Aplicadas CCSS II": 0.1,
+        "Física": 0.1
+      }
+    },
+    {
+      "codigo": "0403",
+      "carrera": "Humanidades",
+      "nota_corte_ordinaria": 5.0,
+      "campus_id": "uah_alcala_historico",
+      "ponderaciones": {
+        "Latín II": 0.2,
+        "Artes Escénicas": 0.2,
+        "Dibujo Artístico II": 0.2,
+        "Fundamentos del Arte II": 0.2,
+        "Geografía": 0.2,
+        "Griego II": 0.2,
+        "Hª Filosofía / Hª España": 0.2,
+        "Historia de la Música y Danza": 0.2,
+        "Historia del Arte": 0.2,
+        "Literatura Dramática": 0.2,
+        "Movimientos Culturales y Artísticos": 0.2,
+        "Lengua Extranjera Adicional": 0.2,
+        "Matemáticas II": 0.1,
+        "Física": 0.1,
+        "Economía de la Empresa": 0.1,
+        "Ciencias Generales": 0.2
+      }
+    },
+    {
+      "codigo": "0404",
+      "carrera": "Lenguas Modernas y Traducción",
+      "nota_corte_ordinaria": 5.659,
+      "campus_id": "uah_alcala_historico",
+      "ponderaciones": {
+        "Latín II": 0.2,
+        "Artes Escénicas": 0.2,
+        "Dibujo Artístico II": 0.2,
+        "Fundamentos del Arte II": 0.2,
+        "Geografía": 0.2,
+        "Griego II": 0.2,
+        "Hª Filosofía / Hª España": 0.2,
+        "Historia de la Música y Danza": 0.2,
+        "Historia del Arte": 0.2,
+        "Literatura Dramática": 0.2,
+        "Movimientos Culturales y Artísticos": 0.2,
+        "Lengua Extranjera Adicional": 0.2,
+        "Matemáticas II": 0.1,
+        "Matemáticas Aplicadas CCSS II": 0.1,
+        "Física": 0.1
+      }
+    },
+    {
+      "codigo": "0405",
+      "carrera": "Lenguas Modernas y Traducción (Guadalajara)",
+      "nota_corte_ordinaria": 5.0,
+      "campus_id": "uah_guadalajara",
+      "ponderaciones": {
+        "Latín II": 0.2,
+        "Artes Escénicas": 0.2,
+        "Dibujo Artístico II": 0.2,
+        "Fundamentos del Arte II": 0.2,
+        "Geografía": 0.2,
+        "Griego II": 0.2,
+        "Hª Filosofía / Hª España": 0.2,
+        "Historia de la Música y Danza": 0.2,
+        "Historia del Arte": 0.2,
+        "Literatura Dramática": 0.2,
+        "Movimientos Culturales y Artísticos": 0.2,
+        "Lengua Extranjera Adicional": 0.2,
+        "Matemáticas II": 0.1,
+        "Matemáticas Aplicadas CCSS II": 0.1,
+        "Física": 0.1
+      }
+    },
+    {
+      "codigo": "0410",
+      "carrera": "Biología",
+      "nota_corte_ordinaria": 9.7,
+      "campus_id": "uah_alcala_cientifico",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Biología": 0.2,
+        "Física": 0.2,
+        "Química": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Ciencias Generales": 0.1,
+        "Geología": 0.1
+      }
+    },
+    {
+      "codigo": "0411",
+      "carrera": "Ciencias Ambientales",
+      "nota_corte_ordinaria": 7.106,
+      "campus_id": "uah_alcala_cientifico",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Biología": 0.2,
+        "Física": 0.2,
+        "Química": 0.2,
+        "Geología": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Ciencias Generales": 0.2,
+        "Geografía": 0.1
+      }
+    },
+    {
+      "codigo": "0413",
+      "carrera": "Criminalística: Ciencias y Tecnologías Forenses",
+      "nota_corte_ordinaria": 11.636,
+      "campus_id": "uah_alcala_cientifico",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Biología": 0.2,
+        "Física": 0.2,
+        "Química": 0.2,
+        "Ciencias Generales": 0.1,
+        "Geología": 0.1,
+        "Tecnología e Ingeniería II": 0.2
+      }
+    },
+    {
+      "codigo": "0415",
+      "carrera": "Física e Instrumentación Espacial",
+      "nota_corte_ordinaria": 11.83,
+      "campus_id": "uah_alcala_cientifico",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Química": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Biología": 0.2
+      }
+    },
+    {
+      "codigo": "0412",
+      "carrera": "Química",
+      "nota_corte_ordinaria": 9.864,
+      "campus_id": "uah_alcala_cientifico",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Química": 0.2,
+        "Biología": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Dibujo Técnico II": 0.1
+      }
+    },
+    {
+      "codigo": "0420",
+      "carrera": "Biología Sanitaria",
+      "nota_corte_ordinaria": 11.839,
+      "campus_id": "uah_alcala_cientifico",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Biología": 0.2,
+        "Física": 0.2,
+        "Química": 0.2
+      }
+    },
+    {
+      "codigo": "0421",
+      "carrera": "Ciencias de la Actividad Física y del Deporte",
+      "nota_corte_ordinaria": 10.325,
+      "campus_id": "uah_alcala_cientifico",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Biología": 0.2,
+        "Física": 0.2,
+        "Química": 0.2,
+        "Ciencias Generales": 0.2,
+        "Matemáticas Aplicadas CCSS II": 0.2,
+        "Economía de la Empresa": 0.2,
+        "Hª Filosofía / Hª España": 0.2,
+        "Lengua Extranjera Adicional": 0.2,
+        "Tecnología e Ingeniería II": 0.1
+      }
+    },
+    {
+      "codigo": "0422",
+      "carrera": "Enfermería",
+      "nota_corte_ordinaria": 11.426,
+      "campus_id": "uah_alcala_cientifico",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Biología": 0.2,
+        "Física": 0.2,
+        "Química": 0.2
+      }
+    },
+    {
+      "codigo": "0423",
+      "carrera": "Enfermería (Guadalajara)",
+      "nota_corte_ordinaria": 11.1,
+      "campus_id": "uah_guadalajara",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Biología": 0.2,
+        "Física": 0.2,
+        "Química": 0.2
+      }
+    },
+    {
+      "codigo": "0424",
+      "carrera": "Farmacia",
+      "nota_corte_ordinaria": 11.22,
+      "campus_id": "uah_alcala_cientifico",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Biología": 0.2,
+        "Física": 0.2,
+        "Química": 0.2
+      }
+    },
+    {
+      "codigo": "0425",
+      "carrera": "Fisioterapia",
+      "nota_corte_ordinaria": 10.85,
+      "campus_id": "uah_alcala_cientifico",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Biología": 0.2,
+        "Física": 0.2,
+        "Química": 0.2
+      }
+    },
+    {
+      "codigo": "0426",
+      "carrera": "Medicina",
+      "nota_corte_ordinaria": 12.871,
+      "campus_id": "uah_alcala_cientifico",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Biología": 0.2,
+        "Física": 0.2,
+        "Química": 0.2
+      }
+    },
+    {
+      "codigo": "0460",
+      "carrera": "Administración y Dirección de Empresas",
+      "nota_corte_ordinaria": 9.225,
+      "campus_id": "uah_alcala_historico",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Matemáticas Aplicadas CCSS II": 0.2,
+        "Economía de la Empresa": 0.2,
+        "Geografía": 0.2,
+        "Hª Filosofía / Hª España": 0.2,
+        "Historia del Arte": 0.2,
+        "Latín II": 0.1,
+        "Ciencias Generales": 0.1,
+        "Física": 0.1,
+        "Química": 0.1,
+        "Tecnología e Ingeniería II": 0.1,
+        "Biología": 0.1,
+        "Lengua Extranjera Adicional": 0.1
+      }
+    },
+    {
+      "codigo": "0461",
+      "carrera": "Administración y Dirección de Empresas (Guadalajara)",
+      "nota_corte_ordinaria": 7.882,
+      "campus_id": "uah_guadalajara",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Matemáticas Aplicadas CCSS II": 0.2,
+        "Economía de la Empresa": 0.2,
+        "Geografía": 0.2,
+        "Hª Filosofía / Hª España": 0.2,
+        "Historia del Arte": 0.2,
+        "Latín II": 0.1,
+        "Ciencias Generales": 0.1,
+        "Física": 0.1,
+        "Química": 0.1,
+        "Tecnología e Ingeniería II": 0.1,
+        "Biología": 0.1,
+        "Lengua Extranjera Adicional": 0.1
+      }
+    },
+    {
+      "codigo": "0462",
+      "carrera": "Comunicación Audiovisual (Guadalajara)",
+      "nota_corte_ordinaria": 7.89,
+      "campus_id": "uah_guadalajara",
+      "ponderaciones": {
+        "Análisis Musical II": 0.2,
+        "Artes Escénicas": 0.2,
+        "Dibujo Artístico II": 0.2,
+        "Fundamentos del Arte II": 0.2,
+        "Latín II": 0.2,
+        "Economía de la Empresa": 0.2,
+        "Geografía": 0.2,
+        "Hª Filosofía / Hª España": 0.2,
+        "Historia de la Música y Danza": 0.2,
+        "Historia del Arte": 0.2,
+        "Literatura Dramática": 0.2,
+        "Lengua Extranjera Adicional": 0.2,
+        "Matemáticas II": 0.1,
+        "Matemáticas Aplicadas CCSS II": 0.1,
+        "Física": 0.1,
+        "Química": 0.1,
+        "Movimientos Culturales y Artísticos": 0.2
+      }
+    },
+    {
+      "codigo": "0463",
+      "carrera": "Finanzas",
+      "nota_corte_ordinaria": 7.541,
+      "campus_id": "uah_alcala_historico",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Matemáticas Aplicadas CCSS II": 0.2,
+        "Economía de la Empresa": 0.2,
+        "Geografía": 0.2,
+        "Hª Filosofía / Hª España": 0.2,
+        "Historia del Arte": 0.2,
+        "Latín II": 0.1,
+        "Ciencias Generales": 0.1,
+        "Física": 0.1,
+        "Química": 0.1,
+        "Tecnología e Ingeniería II": 0.1,
+        "Biología": 0.1,
+        "Lengua Extranjera Adicional": 0.1
+      }
+    },
+    {
+      "codigo": "0464",
+      "carrera": "Derecho",
+      "nota_corte_ordinaria": 8.328,
+      "campus_id": "uah_alcala_historico",
+      "ponderaciones": {
+        "Latín II": 0.2,
+        "Matemáticas Aplicadas CCSS II": 0.2,
+        "Economía de la Empresa": 0.2,
+        "Geografía": 0.2,
+        "Griego II": 0.2,
+        "Hª Filosofía / Hª España": 0.2,
+        "Historia del Arte": 0.2,
+        "Lengua Extranjera Adicional": 0.2,
+        "Ciencias Generales": 0.1,
+        "Matemáticas II": 0.1,
+        "Física": 0.1,
+        "Química": 0.1,
+        "Tecnología e Ingeniería II": 0.1
+      }
+    },
+    {
+      "codigo": "0465",
+      "carrera": "Economía",
+      "nota_corte_ordinaria": 7.664,
+      "campus_id": "uah_alcala_historico",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Matemáticas Aplicadas CCSS II": 0.2,
+        "Economía de la Empresa": 0.2,
+        "Geografía": 0.2,
+        "Hª Filosofía / Hª España": 0.2,
+        "Historia del Arte": 0.2,
+        "Latín II": 0.1,
+        "Ciencias Generales": 0.1,
+        "Física": 0.1,
+        "Química": 0.1,
+        "Tecnología e Ingeniería II": 0.1,
+        "Biología": 0.1,
+        "Lengua Extranjera Adicional": 0.1
+      }
+    },
+    {
+      "codigo": "0466",
+      "carrera": "Economía y Negocios Internacionales",
+      "nota_corte_ordinaria": 11.203,
+      "campus_id": "uah_alcala_historico",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Matemáticas Aplicadas CCSS II": 0.2,
+        "Economía de la Empresa": 0.2,
+        "Geografía": 0.2,
+        "Hª Filosofía / Hª España": 0.2,
+        "Historia del Arte": 0.2,
+        "Latín II": 0.1,
+        "Ciencias Generales": 0.1,
+        "Física": 0.1,
+        "Química": 0.1,
+        "Tecnología e Ingeniería II": 0.2,
+        "Biología": 0.1,
+        "Lengua Extranjera Adicional": 0.1
+      }
+    },
+    {
+      "codigo": "0468",
+      "carrera": "Magisterio de Educación Infantil (Guadalajara)",
+      "nota_corte_ordinaria": 8.253,
+      "campus_id": "uah_guadalajara",
+      "ponderaciones": {
+        "Análisis Musical II": 0.2,
+        "Artes Escénicas": 0.2,
+        "Ciencias Generales": 0.2,
+        "Dibujo Artístico II": 0.2,
+        "Fundamentos del Arte II": 0.2,
+        "Latín II": 0.2,
+        "Matemáticas II": 0.2,
+        "Matemáticas Aplicadas CCSS II": 0.2,
+        "Biología": 0.2,
+        "Dibujo Técnico II": 0.2,
+        "Economía de la Empresa": 0.2,
+        "Física": 0.2,
+        "Geografía": 0.2,
+        "Geología": 0.2,
+        "Griego II": 0.2,
+        "Hª Filosofía / Hª España": 0.2,
+        "Historia de la Música y Danza": 0.2,
+        "Historia del Arte": 0.2,
+        "Literatura Dramática": 0.2,
+        "Movimientos Culturales y Artísticos": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Química": 0.2,
+        "Lengua Extranjera Adicional": 0.2
+      }
+    },
+    {
+      "codigo": "0469",
+      "carrera": "Magisterio de Educación Primaria (Guadalajara)",
+      "nota_corte_ordinaria": 8.7,
+      "campus_id": "uah_guadalajara",
+      "ponderaciones": {
+        "Análisis Musical II": 0.2,
+        "Artes Escénicas": 0.2,
+        "Ciencias Generales": 0.2,
+        "Dibujo Artístico II": 0.2,
+        "Fundamentos del Arte II": 0.2,
+        "Latín II": 0.2,
+        "Matemáticas II": 0.2,
+        "Matemáticas Aplicadas CCSS II": 0.2,
+        "Biología": 0.2,
+        "Dibujo Técnico II": 0.2,
+        "Economía de la Empresa": 0.2,
+        "Física": 0.2,
+        "Geografía": 0.2,
+        "Geología": 0.2,
+        "Griego II": 0.2,
+        "Hª Filosofía / Hª España": 0.2,
+        "Historia de la Música y Danza": 0.2,
+        "Historia del Arte": 0.2,
+        "Literatura Dramática": 0.2,
+        "Movimientos Culturales y Artísticos": 0.2,
+        "Tecnología e Ingeniería II": 0.2,
+        "Química": 0.2,
+        "Lengua Extranjera Adicional": 0.2
+      }
+    },
+    {
+      "codigo": "0440",
+      "carrera": "Fundamentos de Arquitectura y Urbanismo",
+      "nota_corte_ordinaria": 10.148,
+      "campus_id": "uah_alcala_historico",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Dibujo Técnico II": 0.2,
+        "Tecnología e Ingeniería II": 0.1,
+        "Química": 0.1,
+        "Biología": 0.2,
+        "Ciencias Generales": 0.2,
+        "Economía de la Empresa": 0.2,
+        "Fundamentos del Arte II": 0.1
+      }
+    },
+    {
+      "codigo": "0441",
+      "carrera": "Ingeniería de Computadores",
+      "nota_corte_ordinaria": 8.575,
+      "campus_id": "uah_alcala_cientifico",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Tecnología e Ingeniería II": 0.2,
+        "Química": 0.1,
+        "Biología": 0.2
+      }
+    },
+    {
+      "codigo": "0444",
+      "carrera": "Ingeniería Electrónica de Comunicaciones",
+      "nota_corte_ordinaria": 7.504,
+      "campus_id": "uah_alcala_cientifico",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Tecnología e Ingeniería II": 0.2,
+        "Química": 0.1,
+        "Biología": 0.2
+      }
+    },
+    {
+      "codigo": "0443",
+      "carrera": "Ingeniería Electrónica y Automática Industrial",
+      "nota_corte_ordinaria": 9.976,
+      "campus_id": "uah_alcala_cientifico",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Tecnología e Ingeniería II": 0.2,
+        "Química": 0.2,
+        "Biología": 0.2
+      }
+    },
+    {
+      "codigo": "0450",
+      "carrera": "Ingeniería en Tecnologías Industriales",
+      "nota_corte_ordinaria": 11.0,
+      "campus_id": "uah_alcala_cientifico",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Tecnología e Ingeniería II": 0.2,
+        "Química": 0.2,
+        "Biología": 0.2
+      }
+    },
+    {
+      "codigo": "0445",
+      "carrera": "Ingeniería Informática",
+      "nota_corte_ordinaria": 10.7,
+      "campus_id": "uah_alcala_cientifico",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Tecnología e Ingeniería II": 0.2,
+        "Química": 0.1,
+        "Biología": 0.2
+      }
+    },
+    {
+      "codigo": "0439",
+      "carrera": "Matemáticas y Computación (Guadalajara)",
+      "nota_corte_ordinaria": 10.064,
+      "campus_id": "uah_guadalajara",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Tecnología e Ingeniería II": 0.2,
+        "Química": 0.1,
+        "Biología": 0.2
+      }
+    },
+    {
+      "codigo": "0449",
+      "carrera": "Ingeniería en Sistemas de Información",
+      "nota_corte_ordinaria": 8.139,
+      "campus_id": "uah_alcala_cientifico",
+      "ponderaciones": {
+        "Matemáticas II": 0.2,
+        "Física": 0.2,
+        "Dibujo Técnico II": 0.1,
+        "Tecnología e Ingeniería II": 0.2,
+        "Química": 0.1,
+        "Biología": 0.2
+      }
+    }
   ]
 }
